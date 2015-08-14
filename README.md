@@ -1,12 +1,12 @@
-CRAN Task View: Empirical Finance
----------------------------------
+CRAN Task View: Sports Analytics
+--------------------------------
 
 |-----------------|-------------------------  
 | **Maintainer:** | Ben Baumer                
 | **Contact:**    | ben.baumer at gmail.com   
 | **Version:**    | 2015-08-14                
 
-This CRAN Task View contains a list of packages useful for empirical work in Finance, grouped by topic.
+This CRAN Task View contains a list of packages useful for sports analytics, grouped by sport.
 
 Besides these packages, a very wide variety of functions suitable for empirical work in Finance is provided by both the basic R system (and its set of recommended core packages), and a number of other packages on the Comprehensive R Archive Network (CRAN). Consequently, several of the other CRAN Task Views may contain suitable packages, in particular the [Econometrics](http://cran.rstudio.com/web/views/Econometrics.html), [Multivariate](http://cran.rstudio.com/web/views/Multivariate.html), [Optimization](http://cran.rstudio.com/web/views/Optimization.html), [Robust](http://cran.rstudio.com/web/views/Robust.html), [SocialSciences](http://cran.rstudio.com/web/views/SocialSciences.html) and [TimeSeries](http://cran.rstudio.com/web/views/TimeSeries.html) Task Views.
 
