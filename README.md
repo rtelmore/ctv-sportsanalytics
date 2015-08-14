@@ -1,20 +1,10 @@
 CRAN Task View: Empirical Finance
 ---------------------------------
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td align="left"><strong>Maintainer:</strong>
-Dirk Eddelbuettel</td>
-<td align="left"><strong>Contact:</strong>
-Dirk.Eddelbuettel at R-project.org</td>
-</tr>
-</tbody>
-</table>
+|-----------------|-------------------------  
+| **Maintainer:** | Ben Baumer                
+| **Contact:**    | ben.baumer at gmail.com   
+| **Version:**    | 2015-08-14                
 
 This CRAN Task View contains a list of packages useful for empirical work in Finance, grouped by topic.
 

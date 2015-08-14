@@ -4,7 +4,7 @@
 ## Copyright 2014 - 2015  Dirk Eddelbuettel
 ## Released under GPL-2 or later
 
-ctv <- "Finance"
+ctv <- "SportsAnalytics"
 
 ctvfile  <- paste0(ctv, ".ctv")
 htmlfile <- paste0(ctv, ".html")
