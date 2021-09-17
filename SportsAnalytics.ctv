@@ -59,6 +59,14 @@
     </ul>
 
     <p>
+    <strong>Soccer</strong>
+    </p>
+    <ul>
+      <li>
+      </li> 
+    </ul>
+
+    <p>
     <strong>Tennis</strong>
     </p>
     <ul>
@@ -84,7 +92,6 @@
     <pkg>Lahman</pkg>
     <pkg>pitchRx</pkg>
     <pkg>teamcolors</pkg>
-
   </packagelist>
 
   <links>
