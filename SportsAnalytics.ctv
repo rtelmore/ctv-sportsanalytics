@@ -28,6 +28,10 @@
         package, which contains season-level data for Major League Baseball
         going back to 1871. 
       </li>
+      <li>
+        <pkg>pitchRx</pkg> provides access to pitch-level data
+        through the Major League Baseball Advanced Media API. 
+      </li>
     </ul>
 
     <p>
@@ -47,11 +51,28 @@
     </ul>
 
     <p>
+    <strong>Hockey</strong>
+    </p>
+    <ul>
+      <li>
+      </li> 
+    </ul>
+
+    <p>
+    <strong>Tennis</strong>
+    </p>
+    <ul>
+      <li>
+      </li> 
+    </ul>
+
+
+    <p>
     <strong>General</strong>
     </p>
     <ul>
       <li>
-        The <pkg>teamcolors</pkg> provides color palettes, <pkg>ggplot2</pkg>
+        <pkg>teamcolors</pkg> provides color palettes, <pkg>ggplot2</pkg>
         themes, <pkg>xaringan</pkg> themes, and logos for professional teams
         across a variety of sports and leagues. 
       </li> 
@@ -61,6 +82,7 @@
 
   <packagelist>
     <pkg>Lahman</pkg>
+    <pkg>pitchRx</pkg>
     <pkg>teamcolors</pkg>
 
   </packagelist>
