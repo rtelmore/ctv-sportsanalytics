@@ -1,11 +1,10 @@
 ## CRAN Task View: Sports Analytics
 
-|                 |                                                                                                          
-|-----------------|--------------------------------------------------------------------------------------------------------  
-| **Maintainer:** | Ben Baumer                                                                                               
-| **Contact:**    | ben.baumer at gmail.com                                                                                  
-| **Version:**    | 2015-08-14                                                                                               
-| **URL:**        | [https://CRAN.R-project.org/view=Sports Analytics](https://CRAN.R-project.org/view=Sports%20Analytics)   
+                                                                                                                         
+**Maintainer:** Ben Baumer                                                                                               
+**Contact:**    ben.baumer at gmail.com                                                                                  
+**Version:**    2015-08-14                                                                                               
+**URL:**        [https://CRAN.R-project.org/view=Sports Analytics](https://CRAN.R-project.org/view=Sports%20Analytics)   
 
 <div>
 
@@ -17,13 +16,13 @@ empirical work in Finance is provided by both the basic R system (and
 its set of recommended core packages), and a number of other packages on
 the Comprehensive R Archive Network (CRAN). Consequently, several of the
 other CRAN Task Views may contain suitable packages, in particular the
-[Econometrics](http://cran.rstudio.com/web/views/Econometrics.html),
-[Multivariate](http://cran.rstudio.com/web/views/Multivariate.html),
-[Optimization](http://cran.rstudio.com/web/views/Optimization.html),
-[Robust](http://cran.rstudio.com/web/views/Robust.html),
-[SocialSciences](http://cran.rstudio.com/web/views/SocialSciences.html)
-and [TimeSeries](http://cran.rstudio.com/web/views/TimeSeries.html) Task
-Views.
+[Econometrics](https://cran.r-project.org/web/views/Econometrics.html),
+[Multivariate](https://cran.r-project.org/web/views/Multivariate.html),
+[Optimization](https://cran.r-project.org/web/views/Optimization.html),
+[Robust](https://cran.r-project.org/web/views/Robust.html),
+[SocialSciences](https://cran.r-project.org/web/views/SocialSciences.html)
+and [TimeSeries](https://cran.r-project.org/web/views/TimeSeries.html)
+Task Views.
 
 Contributions are always welcome, and encouraged. Since the start of
 this CRAN task view in April 2005, most contributions have arrived as
@@ -35,302 +34,302 @@ are also possible.
 
 -   A detailed overview of the available regression methodologies is
     provided by the
-    [Econometrics](http://cran.rstudio.com/web/views/Econometrics.html)
+    [Econometrics](https://cran.r-project.org/web/views/Econometrics.html)
     task view. This is complemented by the
-    [Robust](http://cran.rstudio.com/web/views/Robust.html) which
+    [Robust](https://cran.r-project.org/web/views/Robust.html) which
     focuses on more robust and resistant methods.
 -   Linear models such as ordinary least squares (OLS) can be estimated
     by `lm()` (from by the stats package contained in the basic R
     distribution). Maximum Likelihood (ML) estimation can be undertaken
     with the standard `optim()` function. Many other suitable methods
     are listed in the
-    [Optimization](http://cran.rstudio.com/web/views/Optimization.html)
+    [Optimization](https://cran.r-project.org/web/views/Optimization.html)
     view. Non-linear least squares can be estimated with the `nls()`
     function, as well as with `nlme()` from the
-    [nlme](http://cran.rstudio.com/web/packages/nlme/index.html) package.
+    [nlme](https://cran.r-project.org/package=nlme) package.
 -   For the linear model, a variety of regression diagnostic tests are
-    provided by the [car](http://cran.rstudio.com/web/packages/car/index.html),
-    [lmtest](http://cran.rstudio.com/web/packages/lmtest/index.html),
-    [strucchange](http://cran.rstudio.com/web/packages/strucchange/index.html),
-    [urca](http://cran.rstudio.com/web/packages/urca/index.html), and
-    [sandwich](http://cran.rstudio.com/web/packages/sandwich/index.html) packages. The
-    [Rcmdr](http://cran.rstudio.com/web/packages/Rcmdr/index.html) and
-    [Zelig](http://cran.rstudio.com/web/packages/Zelig/index.html) packages provide user
+    provided by the [car](https://cran.r-project.org/package=car),
+    [lmtest](https://cran.r-project.org/package=lmtest),
+    [strucchange](https://cran.r-project.org/package=strucchange),
+    [urca](https://cran.r-project.org/package=urca), and
+    [sandwich](https://cran.r-project.org/package=sandwich) packages. The
+    [Rcmdr](https://cran.r-project.org/package=Rcmdr) and
+    [Zelig](https://cran.r-project.org/package=Zelig) packages provide user
     interfaces that may be of interest as well.
 
 **Time series**
 
 -   A detailed overview of tools for time series analysis can be found
     in the
-    [TimeSeries](http://cran.rstudio.com/web/views/TimeSeries.html) task
-    view. Below a brief overview of the most important methods in
+    [TimeSeries](https://cran.r-project.org/web/views/TimeSeries.html)
+    task view. Below a brief overview of the most important methods in
     finance is given.
 -   Classical time series functionality is provided by the `arima()` and
     `KalmanLike()` commands in the basic R distribution.
--   The [dse](http://cran.rstudio.com/web/packages/dse/index.html) and
-    [timsac](http://cran.rstudio.com/web/packages/timsac/index.html) packages provide a variety
+-   The [dse](https://cran.r-project.org/package=dse) and
+    [timsac](https://cran.r-project.org/package=timsac) packages provide a variety
     of more advanced estimation methods;
-    [fracdiff](http://cran.rstudio.com/web/packages/fracdiff/index.html) can estimate
+    [fracdiff](https://cran.r-project.org/package=fracdiff) can estimate
     fractionally integrated series;
-    [longmemo](http://cran.rstudio.com/web/packages/longmemo/index.html) covers related material.
-    The [fractal](http://cran.rstudio.com/web/packages/fractal/index.html) provide fractal time
+    [longmemo](https://cran.r-project.org/package=longmemo) covers related material.
+    The [fractal](https://cran.r-project.org/package=fractal) provide fractal time
     series modeling functionality.
 -   For volatility modeling, the standard GARCH(1,1) model can be
     estimated with the `garch()` function in the
-    [tseries](http://cran.rstudio.com/web/packages/tseries/index.html) package. Rmetrics (see
-    below) contains the [fGarch](http://cran.rstudio.com/web/packages/fGarch/index.html) package
+    [tseries](https://cran.r-project.org/package=tseries) package. Rmetrics (see
+    below) contains the [fGarch](https://cran.r-project.org/package=fGarch) package
     which has additional models. The
-    [rugarch](http://cran.rstudio.com/web/packages/rugarch/index.html) package can be used to
+    [rugarch](https://cran.r-project.org/package=rugarch) package can be used to
     model a variety of univariate GARCH models with extensions such as
     ARFIMA, in-mean, external regressors and various other
     specifications; with methods for fit, forecast, simulation,
     inference and plotting are provided too. The
-    [rmgarch](http://cran.rstudio.com/web/packages/rmgarch/index.html) builds on it to provide
+    [rmgarch](https://cran.r-project.org/package=rmgarch) builds on it to provide
     the ability to estimate several multivariate GARCH models. The
-    [betategarch](http://cran.rstudio.com/web/packages/betategarch/index.html) package can
+    [betategarch](https://cran.r-project.org/package=betategarch) package can
     estimate and simulate the Beta-t-EGARCH model by Harvey. The
-    [bayesGARCH](http://cran.rstudio.com/web/packages/bayesGARCH/index.html) package can perform
+    [bayesGARCH](https://cran.r-project.org/package=bayesGARCH) package can perform
     Bayesian estimation of a GARCH(1,1) model with Student's t
     innovations. For multivariate models, the
-    [ccgarch](http://cran.rstudio.com/web/packages/ccgarch/index.html) package can estimate
+    [ccgarch](https://cran.r-project.org/package=ccgarch) package can estimate
     (multivariate) Conditional Correlation GARCH models whereas the
-    [gogarch](http://cran.rstudio.com/web/packages/gogarch/index.html) package provides functions
+    [gogarch](https://cran.r-project.org/package=gogarch) package provides functions
     for generalized orthogonal GARCH models. The
-    [gets](http://cran.rstudio.com/web/packages/gets/index.html) package (which was preceded by a
+    [gets](https://cran.r-project.org/package=gets) package (which was preceded by a
     related package AutoSEARCH) provides automated general-to-specific
     model selection of the mean and log-volatility of a log-ARCH-X
-    model. The [GEVStableGarch](http://cran.rstudio.com/web/packages/GEVStableGarch/index.html)
+    model. The [GEVStableGarch](https://cran.r-project.org/package=GEVStableGarch)
     package can fit ARMA-GARCH or ARMA-APARCH models with GEV and stable
     conditional distributions. The
-    [lgarch](http://cran.rstudio.com/web/packages/lgarch/index.html) package can estimate and fit
+    [lgarch](https://cran.r-project.org/package=lgarch) package can estimate and fit
     log-Garch models.
 -   Unit root and cointegration tests are provided by
-    [tseries](http://cran.rstudio.com/web/packages/tseries/index.html), and
-    [urca](http://cran.rstudio.com/web/packages/urca/index.html). The Rmetrics packages
-    [timeSeries](http://cran.rstudio.com/web/packages/timeSeries/index.html) and
-    [fMultivar](http://cran.rstudio.com/web/packages/fMultivar/index.html) contain a number of
+    [tseries](https://cran.r-project.org/package=tseries), and
+    [urca](https://cran.r-project.org/package=urca). The Rmetrics packages
+    [timeSeries](https://cran.r-project.org/package=timeSeries) and
+    [fMultivar](https://cran.r-project.org/package=fMultivar) contain a number of
     estimation functions for ARMA, GARCH, long memory models, unit roots
-    and more. The [CADFtest](http://cran.rstudio.com/web/packages/CADFtest/index.html) package
+    and more. The [CADFtest](https://cran.r-project.org/package=CADFtest) package
     implements the Hansen unit root test.
--   [MSBVAR](http://cran.rstudio.com/web/packages/MSBVAR/index.html) provides Bayesian estimation
+-   [MSBVAR](https://cran.r-project.org/package=MSBVAR) provides Bayesian estimation
     of vector autoregressive models. The
-    [dlm](http://cran.rstudio.com/web/packages/dlm/index.html) package provides Bayesian and
+    [dlm](https://cran.r-project.org/package=dlm) package provides Bayesian and
     likelihood analysis of dynamic linear models (ie linear Gaussian
     state space models).
--   The [vars](http://cran.rstudio.com/web/packages/vars/index.html) package offer estimation,
+-   The [vars](https://cran.r-project.org/package=vars) package offer estimation,
     diagnostics, forecasting and error decomposition of VAR and SVAR
     model in a classical framework.
--   The [dyn](http://cran.rstudio.com/web/packages/dyn/index.html) and
-    [dynlm](http://cran.rstudio.com/web/packages/dynlm/index.html) are suitable for dynamic
+-   The [dyn](https://cran.r-project.org/package=dyn) and
+    [dynlm](https://cran.r-project.org/package=dynlm) are suitable for dynamic
     (linear) regression models.
 -   Several packages provide wavelet analysis functionality:
-    [rwt](http://cran.rstudio.com/web/packages/rwt/index.html),
-    [wavelets](http://cran.rstudio.com/web/packages/wavelets/index.html),
-    [waveslim](http://cran.rstudio.com/web/packages/waveslim/index.html),
-    [wavethresh](http://cran.rstudio.com/web/packages/wavethresh/index.html). Some methods from
+    [rwt](https://cran.r-project.org/package=rwt),
+    [wavelets](https://cran.r-project.org/package=wavelets),
+    [waveslim](https://cran.r-project.org/package=waveslim),
+    [wavethresh](https://cran.r-project.org/package=wavethresh). Some methods from
     chaos theory are provided by the package
-    [tseriesChaos](http://cran.rstudio.com/web/packages/tseriesChaos/index.html).
-    [tsDyn](http://cran.rstudio.com/web/packages/tsDyn/index.html) adds time series analysis
+    [tseriesChaos](https://cran.r-project.org/package=tseriesChaos).
+    [tsDyn](https://cran.r-project.org/package=tsDyn) adds time series analysis
     based on dynamical systems therory.
--   The [forecast](http://cran.rstudio.com/web/packages/forecast/index.html) package adds
+-   The [forecast](https://cran.r-project.org/package=forecast) package adds
     functions for forecasting problems.
--   The [tsfa](http://cran.rstudio.com/web/packages/tsfa/index.html) package provides functions
+-   The [tsfa](https://cran.r-project.org/package=tsfa) package provides functions
     for time series factor analysis.
--   The [stochvol](http://cran.rstudio.com/web/packages/stochvol/index.html) package implements
+-   The [stochvol](https://cran.r-project.org/package=stochvol) package implements
     Bayesian estimation of stochastic volatility using Markov Chain
     Monte Carlo.
 
 **Finance**
 
 -   The Rmetrics suite of packages comprises
-    [fArma](http://cran.rstudio.com/web/packages/fArma/index.html),
-    [fAsianOptions](http://cran.rstudio.com/web/packages/fAsianOptions/index.html),
-    [fAssets](http://cran.rstudio.com/web/packages/fAssets/index.html),
-    [fBasics](http://cran.rstudio.com/web/packages/fBasics/index.html),
-    [fBonds](http://cran.rstudio.com/web/packages/fBonds/index.html),
-    [timeDate](http://cran.rstudio.com/web/packages/timeDate/index.html) (formerly: fCalendar),
-    [fCopulae](http://cran.rstudio.com/web/packages/fCopulae/index.html),
-    [fExoticOptions](http://cran.rstudio.com/web/packages/fExoticOptions/index.html),
-    [fExtremes](http://cran.rstudio.com/web/packages/fExtremes/index.html),
-    [fGarch](http://cran.rstudio.com/web/packages/fGarch/index.html),
-    [fImport](http://cran.rstudio.com/web/packages/fImport/index.html),
-    [fNonlinear](http://cran.rstudio.com/web/packages/fNonlinear/index.html),
-    [fOptions](http://cran.rstudio.com/web/packages/fOptions/index.html),
-    [fPortfolio](http://cran.rstudio.com/web/packages/fPortfolio/index.html),
-    [fRegression](http://cran.rstudio.com/web/packages/fRegression/index.html),
-    [timeSeries](http://cran.rstudio.com/web/packages/timeSeries/index.html) (formerly: fSeries),
-    [fTrading](http://cran.rstudio.com/web/packages/fTrading/index.html),
-    [fUnitRoots](http://cran.rstudio.com/web/packages/fUnitRoots/index.html) and contains a very
+    [fArma](https://cran.r-project.org/package=fArma),
+    [fAsianOptions](https://cran.r-project.org/package=fAsianOptions),
+    [fAssets](https://cran.r-project.org/package=fAssets),
+    [fBasics](https://cran.r-project.org/package=fBasics),
+    [fBonds](https://cran.r-project.org/package=fBonds),
+    [timeDate](https://cran.r-project.org/package=timeDate) (formerly: fCalendar),
+    [fCopulae](https://cran.r-project.org/package=fCopulae),
+    [fExoticOptions](https://cran.r-project.org/package=fExoticOptions),
+    [fExtremes](https://cran.r-project.org/package=fExtremes),
+    [fGarch](https://cran.r-project.org/package=fGarch),
+    [fImport](https://cran.r-project.org/package=fImport),
+    [fNonlinear](https://cran.r-project.org/package=fNonlinear),
+    [fOptions](https://cran.r-project.org/package=fOptions),
+    [fPortfolio](https://cran.r-project.org/package=fPortfolio),
+    [fRegression](https://cran.r-project.org/package=fRegression),
+    [timeSeries](https://cran.r-project.org/package=timeSeries) (formerly: fSeries),
+    [fTrading](https://cran.r-project.org/package=fTrading),
+    [fUnitRoots](https://cran.r-project.org/package=fUnitRoots) and contains a very
     large number of relevant functions for different aspect of empirical
     and computational finance.
--   The [RQuantLib](http://cran.rstudio.com/web/packages/RQuantLib/index.html) package provides
+-   The [RQuantLib](https://cran.r-project.org/package=RQuantLib) package provides
     several option-pricing functions as well as some fixed-income
     functionality from the QuantLib project to R.
--   The [quantmod](http://cran.rstudio.com/web/packages/quantmod/index.html) package offers a
+-   The [quantmod](https://cran.r-project.org/package=quantmod) package offers a
     number of functions for quantitative modelling in finance as well as
     data acqusition, plotting and other utilities.
--   The [portfolio](http://cran.rstudio.com/web/packages/portfolio/index.html) package contains
+-   The [portfolio](https://cran.r-project.org/package=portfolio) package contains
     classes for equity portfolio management; the
-    [portfolioSim](http://cran.rstudio.com/web/packages/portfolioSim/index.html) builds a related
+    [portfolioSim](https://cran.r-project.org/package=portfolioSim) builds a related
     simulation framework. The
-    [backtest](http://cran.rstudio.com/web/packages/backtest/index.html) offers tools to explore
+    [backtest](https://cran.r-project.org/package=backtest) offers tools to explore
     portfolio-based hypotheses about financial instruments. The
-    [stockPortfolio](http://cran.rstudio.com/web/packages/stockPortfolio/index.html) package
+    [stockPortfolio](https://cran.r-project.org/package=stockPortfolio) package
     provides functions for single index, constant correlation and
-    multigroup models. The [pa](http://cran.rstudio.com/web/packages/pa/index.html) package
+    multigroup models. The [pa](https://cran.r-project.org/package=pa) package
     offers performance attribution functionality for equity portfolios.
 -   The
-    [PerformanceAnalytics](http://cran.rstudio.com/web/packages/PerformanceAnalytics/index.html)
+    [PerformanceAnalytics](https://cran.r-project.org/package=PerformanceAnalytics)
     package contains a large number of functions for portfolio
     performance calculations and risk management.
--   The [TTR](http://cran.rstudio.com/web/packages/TTR/index.html) contains functions to
+-   The [TTR](https://cran.r-project.org/package=TTR) contains functions to
     construct technical trading rules in R.
--   The [financial](http://cran.rstudio.com/web/packages/financial/index.html) package can
+-   The [financial](https://cran.r-project.org/package=financial) package can
     compute present values, cash flows and other simple finance
     calculations.
--   The [sde](http://cran.rstudio.com/web/packages/sde/index.html) package provides simulation
+-   The [sde](https://cran.r-project.org/package=sde) package provides simulation
     and inference functionality for stochastic differential equations.
--   The [termstrc](http://cran.rstudio.com/web/packages/termstrc/index.html) and
-    [YieldCurve](http://cran.rstudio.com/web/packages/YieldCurve/index.html) packages contain
+-   The [termstrc](https://cran.r-project.org/package=termstrc) and
+    [YieldCurve](https://cran.r-project.org/package=YieldCurve) packages contain
     methods for the estimation of zero-coupon yield curves and spread
     curves based the parametric Nelson and Siegel (1987) method with the
     Svensson (1994) extension. The former package adds the
     McCulloch (1975) cubic splines approach, the latter package adds the
     Diebold and Li approach. The
-    [SmithWilsonYieldCurve](http://cran.rstudio.com/web/packages/SmithWilsonYieldCurve/index.html)
+    [SmithWilsonYieldCurve](https://cran.r-project.org/package=SmithWilsonYieldCurve)
     construct the yield curve using the Smith-Wilson approach based on
     LIBOR and SWAP rates.
--   The [vrtest](http://cran.rstudio.com/web/packages/vrtest/index.html) package contains a
+-   The [vrtest](https://cran.r-project.org/package=vrtest) package contains a
     number of variance ratio tests for the weak-form of the efficient
     markets hypothesis.
--   The [gmm](http://cran.rstudio.com/web/packages/gmm/index.html) package provides generalized
+-   The [gmm](https://cran.r-project.org/package=gmm) package provides generalized
     method of moments (GMM) estimations function that are often used
     when estimating the parameters of the moment conditions implied by
     an asset pricing model.
--   The [tawny](http://cran.rstudio.com/web/packages/tawny/index.html) package contains estimator
+-   The [tawny](https://cran.r-project.org/package=tawny) package contains estimator
     based on random matrix theory as well as shrinkage methods to remove
     sampling noise when estimating sample covariance matrices.
--   The [opefimor](http://cran.rstudio.com/web/packages/opefimor/index.html) package by contains
+-   The [opefimor](https://cran.r-project.org/package=opefimor) package by contains
     material to accompany the Iacus (2011) book entitled "Option Pricing
     and Estimation of Financial Models in R".
--   The [maRketSim](http://cran.rstudio.com/web/packages/maRketSim/index.html) package provides a
+-   The [maRketSim](https://cran.r-project.org/package=maRketSim) package provides a
     market simulator, initially designed around the bond market.
--   The [BurStFin](http://cran.rstudio.com/web/packages/BurStFin/index.html) and
-    [BurStMisc](http://cran.rstudio.com/web/packages/BurStMisc/index.html) package has a
+-   The [BurStFin](https://cran.r-project.org/package=BurStFin) and
+    [BurStMisc](https://cran.r-project.org/package=BurStMisc) package has a
     collection of function for Finance including the estimation of
     covariance matrices.
--   The [AmericanCallOpt](http://cran.rstudio.com/web/packages/AmericanCallOpt/index.html)
+-   The [AmericanCallOpt](https://cran.r-project.org/package=AmericanCallOpt)
     package contains a pricer for different American call options.
--   The [VarSwapPrice](http://cran.rstudio.com/web/packages/VarSwapPrice/index.html) package can
+-   The [VarSwapPrice](https://cran.r-project.org/package=VarSwapPrice) package can
     price a variance swap via a portfolio of European options contracts.
--   The [FinAsym](http://cran.rstudio.com/web/packages/FinAsym/index.html) package implements the
+-   The [FinAsym](https://cran.r-project.org/package=FinAsym) package implements the
     Lee and Ready (1991) and Easley and O'Hara (1987) tests for,
     respectively, trade direction, and probability of informed trading.
--   The [parma](http://cran.rstudio.com/web/packages/parma/index.html) package provides support
+-   The [parma](https://cran.r-project.org/package=parma) package provides support
     for portfolio allocation and risk management applications.
--   The [GUIDE](http://cran.rstudio.com/web/packages/GUIDE/index.html) package provides a *GUI*
+-   The [GUIDE](https://cran.r-project.org/package=GUIDE) package provides a *GUI*
     for *DE* rivatives and contains numerous pricer examples as well as
     interactive 2d and 3d plots to study these pricing functions.
--   The [SharpeR](http://cran.rstudio.com/web/packages/SharpeR/index.html) package contains a
+-   The [SharpeR](https://cran.r-project.org/package=SharpeR) package contains a
     collection of tools for analyzing significance of trading
     strategies, based on the Sharpe ratio and overfit of the same.
--   The [RND](http://cran.rstudio.com/web/packages/RND/index.html) package implements various
+-   The [RND](https://cran.r-project.org/package=RND) package implements various
     functions to extract risk-neutral densities from option prices.
--   [LSMonteCarlo](http://cran.rstudio.com/web/packages/LSMonteCarlo/index.html) can price
+-   [LSMonteCarlo](https://cran.r-project.org/package=LSMonteCarlo) can price
     American Options via the Least Squares Monte Carlo method
--   The [BenfordTests](http://cran.rstudio.com/web/packages/BenfordTests/index.html) package
+-   The [BenfordTests](https://cran.r-project.org/package=BenfordTests) package
     provides seven statistical tests and support functions for
     determining if numerical data could conform to Benford's law.
--   The [OptHedging](http://cran.rstudio.com/web/packages/OptHedging/index.html) package values
+-   The [OptHedging](https://cran.r-project.org/package=OptHedging) package values
     call and put option portfolio and implements an optimal hedging
     strategy.
--   The [markovchain](http://cran.rstudio.com/web/packages/markovchain/index.html) package
+-   The [markovchain](https://cran.r-project.org/package=markovchain) package
     provides functionality to easily handle and analyse discrete Markov
     chains.
--   The [ycinterextra](http://cran.rstudio.com/web/packages/ycinterextra/index.html) package
+-   The [ycinterextra](https://cran.r-project.org/package=ycinterextra) package
     models yield curve interpolation and extrapolation using via the
     Nelson-Siegel, Svensson, or Smith-Wilson models, as well as Hermite
     cubic splines.
--   The [tvm](http://cran.rstudio.com/web/packages/tvm/index.html) package models provides
+-   The [tvm](https://cran.r-project.org/package=tvm) package models provides
     functions for time value of money such as cashflows and yield
     curves.
--   The [MarkowitzR](http://cran.rstudio.com/web/packages/MarkowitzR/index.html) package provides
+-   The [MarkowitzR](https://cran.r-project.org/package=MarkowitzR) package provides
     functions to test the statistical signicance of Markowitz
     portfolios.
--   The [egcm](http://cran.rstudio.com/web/packages/egcm/index.html) package implements the
+-   The [egcm](https://cran.r-project.org/package=egcm) package implements the
     Engle-Granger two-stage cointegration modeling procedure with a
     particular focus on pairs trading.
--   The [pbo](http://cran.rstudio.com/web/packages/pbo/index.html) package models the probability
+-   The [pbo](https://cran.r-project.org/package=pbo) package models the probability
     of backtest overfitting, performance degradation, probability of
     loss, and the stochastic dominance when analysing trading
     strategies.
--   The [OptionPricing](http://cran.rstudio.com/web/packages/OptionPricing/index.html) package
+-   The [OptionPricing](https://cran.r-project.org/package=OptionPricing) package
     implements efficient Monte Carlo algorithms for the price and the
     sensitivities of Asian and European Options under Geometric Brownian
     Motion.
--   The [matchingMarkets](http://cran.rstudio.com/web/packages/matchingMarkets/index.html)
+-   The [matchingMarkets](https://cran.r-project.org/package=matchingMarkets)
     package implements a structural estimator to correct for the bias
     arising from endogenous matching (e.g. group formation in
     microfinance or matching of firms and venture capitalists).
--   The [restimizeapi](http://cran.rstudio.com/web/packages/restimizeapi/index.html) package
+-   The [restimizeapi](https://cran.r-project.org/package=restimizeapi) package
     interfaces the API at www.estimize.com which provides crowd-sourced
     earnings estimates.
--   The [credule](http://cran.rstudio.com/web/packages/credule/index.html) package is another
+-   The [credule](https://cran.r-project.org/package=credule) package is another
     pricer for credit default swaps.
 
 **Risk management**
 
 -   Several packages provide functionality for Extreme Value Theory
-    models: [evd](http://cran.rstudio.com/web/packages/evd/index.html),
-    [evdbayes](http://cran.rstudio.com/web/packages/evdbayes/index.html),
-    [evir](http://cran.rstudio.com/web/packages/evir/index.html),
-    [extRemes](http://cran.rstudio.com/web/packages/extRemes/index.html),
-    [ismev](http://cran.rstudio.com/web/packages/ismev/index.html).
--   The packages [CreditMetrics](http://cran.rstudio.com/web/packages/CreditMetrics/index.html)
-    and [crp.CSFP](http://cran.rstudio.com/web/packages/crp.CSFP/index.html) provide function for
+    models: [evd](https://cran.r-project.org/package=evd),
+    [evdbayes](https://cran.r-project.org/package=evdbayes),
+    [evir](https://cran.r-project.org/package=evir),
+    [extRemes](https://cran.r-project.org/package=extRemes),
+    [ismev](https://cran.r-project.org/package=ismev).
+-   The packages [CreditMetrics](https://cran.r-project.org/package=CreditMetrics)
+    and [crp.CSFP](https://cran.r-project.org/package=crp.CSFP) provide function for
     modelling credit risks.
--   The [mvtnorm](http://cran.rstudio.com/web/packages/mvtnorm/index.html) package provides code
+-   The [mvtnorm](https://cran.r-project.org/package=mvtnorm) package provides code
     for multivariate Normal and t-distributions.
 -   The Rmetrics packages
-    [fPortfolio](http://cran.rstudio.com/web/packages/fPortfolio/index.html) and
-    [fExtremes](http://cran.rstudio.com/web/packages/fExtremes/index.html) also contain a number
+    [fPortfolio](https://cran.r-project.org/package=fPortfolio) and
+    [fExtremes](https://cran.r-project.org/package=fExtremes) also contain a number
     of relevant functions.
--   The [copula](http://cran.rstudio.com/web/packages/copula/index.html) and
-    [fgac](http://cran.rstudio.com/web/packages/fgac/index.html) packages cover multivariate
+-   The [copula](https://cran.r-project.org/package=copula) and
+    [fgac](https://cran.r-project.org/package=fgac) packages cover multivariate
     dependency structures using copula methods.
--   The [actuar](http://cran.rstudio.com/web/packages/actuar/index.html) package provides an
+-   The [actuar](https://cran.r-project.org/package=actuar) package provides an
     actuarial perspective to risk management.
--   The [ghyp](http://cran.rstudio.com/web/packages/ghyp/index.html) package provides generalized
+-   The [ghyp](https://cran.r-project.org/package=ghyp) package provides generalized
     hyberbolic distribution functions as well as procedures for VaR,
     CVaR or target-return portfolio optimizations.
--   The [ChainLadder](http://cran.rstudio.com/web/packages/ChainLadder/index.html) package
+-   The [ChainLadder](https://cran.r-project.org/package=ChainLadder) package
     provides functions for modeling insurance claim reserves; and the
-    [lifecontingencies](http://cran.rstudio.com/web/packages/lifecontingencies/index.html)
+    [lifecontingencies](https://cran.r-project.org/package=lifecontingencies)
     package provides functions for financial and actuarial evaluations
     of life contingencies.
--   The [frmqa](http://cran.rstudio.com/web/packages/frmqa/index.html) package aims to collect
+-   The [frmqa](https://cran.r-project.org/package=frmqa) package aims to collect
     functions for Financial Risk Management and Quantitative Analysis.
--   The [ESG](http://cran.rstudio.com/web/packages/ESG/index.html) package can be used to model
+-   The [ESG](https://cran.r-project.org/package=ESG) package can be used to model
     for asset projection, a scenario-based simulation approach.
--   The [riskSimul](http://cran.rstudio.com/web/packages/riskSimul/index.html) package provides
+-   The [riskSimul](https://cran.r-project.org/package=riskSimul) package provides
     efficient simulation procedures to estimate tail loss probabilities
     and conditional excess for a stock portfolios where log-returns are
     assumed to follow a t-copula model with generalized hyperbolic or t
     marginals.
--   The [GCPM](http://cran.rstudio.com/web/packages/GCPM/index.html) package anlyzes the default
+-   The [GCPM](https://cran.r-project.org/package=GCPM) package anlyzes the default
     risk of credit portfolio using both analytical and simulation
     approaches.
--   The [FatTailsR](http://cran.rstudio.com/web/packages/FatTailsR/index.html) package provides a
+-   The [FatTailsR](https://cran.r-project.org/package=FatTailsR) package provides a
     family of four distributions tailored to distribution with symmetric
     and asymmetric fat tails.
 
 **Books**
 
--   The [FinTS](http://cran.rstudio.com/web/packages/FinTS/index.html) package provides an R
+-   The [FinTS](https://cran.r-project.org/package=FinTS) package provides an R
     companion to Tsay (2005), *Analysis of Financial Time Series* , 2nd
     ed. Wiley, and includes data sets, functions and script files to
     work some of the examples.
--   The [NMOF](http://cran.rstudio.com/web/packages/NMOF/index.html) package provides functions,
+-   The [NMOF](https://cran.r-project.org/package=NMOF) package provides functions,
     examples and data from *Numerical Methods in Finance* by Manfred
     Gilli, Dietmar Maringer and Enrico Schumann (2011), including the
     different optimization heuristics such as Differential Evolution,
@@ -338,47 +337,47 @@ are also possible.
 
 **Data and date management**
 
--   The [its](http://cran.rstudio.com/web/packages/its/index.html),
-    [zoo](http://cran.rstudio.com/web/packages/zoo/index.html) and
-    [timeDate](http://cran.rstudio.com/web/packages/timeDate/index.html) (part of Rmetrics)
+-   The [its](https://cran.r-project.org/package=its),
+    [zoo](https://cran.r-project.org/package=zoo) and
+    [timeDate](https://cran.r-project.org/package=timeDate) (part of Rmetrics)
     packages provide support for irregularly-spaced time series. The
-    [xts](http://cran.rstudio.com/web/packages/xts/index.html) package extends
-    [zoo](http://cran.rstudio.com/web/packages/zoo/index.html) specifically for financial time
+    [xts](https://cran.r-project.org/package=xts) package extends
+    [zoo](https://cran.r-project.org/package=zoo) specifically for financial time
     series. See the
-    [TimeSeries](http://cran.rstudio.com/web/views/TimeSeries.html) task
-    view for more details.
--   [timeDate](http://cran.rstudio.com/web/packages/timeDate/index.html) also addresses calendar
+    [TimeSeries](https://cran.r-project.org/web/views/TimeSeries.html)
+    task view for more details.
+-   [timeDate](https://cran.r-project.org/package=timeDate) also addresses calendar
     issues such as recurring holidays for a large number of financial
     centers, and provides code for high-frequency data sets.
--   The [fame](http://cran.rstudio.com/web/packages/fame/index.html) package can access Fame time
+-   The [fame](https://cran.r-project.org/package=fame) package can access Fame time
     series databases (but also requires a Fame backend). The
-    [tis](http://cran.rstudio.com/web/packages/tis/index.html) package provides time indices and
+    [tis](https://cran.r-project.org/package=tis) package provides time indices and
     time-indexed series compatible with Fame frequencies.
--   The [TSdbi](http://cran.rstudio.com/web/packages/TSdbi/index.html) package provides a
+-   The [TSdbi](https://cran.r-project.org/package=TSdbi) package provides a
     unifying interface for several time series data base backends, and
     its SQL implementations provide a database table design.
--   The [IBrokers](http://cran.rstudio.com/web/packages/IBrokers/index.html) package provides
+-   The [IBrokers](https://cran.r-project.org/package=IBrokers) package provides
     access to the Interactive Brokers API for data access (but requires
     an account to access the service).
--   The [data.table](http://cran.rstudio.com/web/packages/data.table/index.html) package provides
+-   The [data.table](https://cran.r-project.org/package=data.table) package provides
     very efficient and fast access to in-memory data sets such as asset
     prices.
--   The [TFX](http://cran.rstudio.com/web/packages/TFX/index.html) package provides an interface
+-   The [TFX](https://cran.r-project.org/package=TFX) package provides an interface
     to the TrueFX (TM) service for free streaming real-time and
     historical tick-by-tick market data for interbank foreign exchange
     rates at the millisecond resolution.
--   The package [highfrequency](http://cran.rstudio.com/web/packages/highfrequency/index.html)
+-   The package [highfrequency](https://cran.r-project.org/package=highfrequency)
     contains functionality to manage, clean and match highfrequency
     trades and quotes data and enables users to calculate various
     liquidity measures, estimate and forecast volatility, and
     investigate microstructure noise and intraday periodicity.
--   The [Rbitcoin](http://cran.rstudio.com/web/packages/Rbitcoin/index.html) package offers
+-   The [Rbitcoin](https://cran.r-project.org/package=Rbitcoin) package offers
     access to Bitcoin exchange APIs (mtgox, bitstamp, btce, kraken) via
     public and private API calls and integration of data structures for
     all markets.
--   The [bizdays](http://cran.rstudio.com/web/packages/bizdays/index.html) package compute
+-   The [bizdays](https://cran.r-project.org/package=bizdays) package compute
     business days if provided a list of holidays.
--   The [TAQMNGR](http://cran.rstudio.com/web/packages/TAQMNGR/index.html) package manages
+-   The [TAQMNGR](https://cran.r-project.org/package=TAQMNGR) package manages
     tick-by-tick (equity) transaction data performing 'cleaning',
     'aggregation' and 'import' where cleaning and aggregation are
     performed according to Brownlees and Gallo (2006).
@@ -387,139 +386,139 @@ are also possible.
 
 ### CRAN packages:
 
--   [actuar](http://cran.rstudio.com/web/packages/actuar/index.html)
--   [AmericanCallOpt](http://cran.rstudio.com/web/packages/AmericanCallOpt/index.html)
--   [backtest](http://cran.rstudio.com/web/packages/backtest/index.html)
--   [bayesGARCH](http://cran.rstudio.com/web/packages/bayesGARCH/index.html)
--   [BenfordTests](http://cran.rstudio.com/web/packages/BenfordTests/index.html)
--   [betategarch](http://cran.rstudio.com/web/packages/betategarch/index.html)
--   [bizdays](http://cran.rstudio.com/web/packages/bizdays/index.html)
--   [BurStFin](http://cran.rstudio.com/web/packages/BurStFin/index.html)
--   [BurStMisc](http://cran.rstudio.com/web/packages/BurStMisc/index.html)
--   [CADFtest](http://cran.rstudio.com/web/packages/CADFtest/index.html)
--   [car](http://cran.rstudio.com/web/packages/car/index.html)
--   [ccgarch](http://cran.rstudio.com/web/packages/ccgarch/index.html)
--   [ChainLadder](http://cran.rstudio.com/web/packages/ChainLadder/index.html)
--   [copula](http://cran.rstudio.com/web/packages/copula/index.html)
--   [CreditMetrics](http://cran.rstudio.com/web/packages/CreditMetrics/index.html)
--   [credule](http://cran.rstudio.com/web/packages/credule/index.html)
--   [crp.CSFP](http://cran.rstudio.com/web/packages/crp.CSFP/index.html)
--   [data.table](http://cran.rstudio.com/web/packages/data.table/index.html)
--   [dlm](http://cran.rstudio.com/web/packages/dlm/index.html)
--   [dse](http://cran.rstudio.com/web/packages/dse/index.html)
--   [dyn](http://cran.rstudio.com/web/packages/dyn/index.html)
--   [dynlm](http://cran.rstudio.com/web/packages/dynlm/index.html)
--   [egcm](http://cran.rstudio.com/web/packages/egcm/index.html)
--   [ESG](http://cran.rstudio.com/web/packages/ESG/index.html)
--   [evd](http://cran.rstudio.com/web/packages/evd/index.html)
--   [evdbayes](http://cran.rstudio.com/web/packages/evdbayes/index.html)
--   [evir](http://cran.rstudio.com/web/packages/evir/index.html)
--   [extRemes](http://cran.rstudio.com/web/packages/extRemes/index.html)
--   [fame](http://cran.rstudio.com/web/packages/fame/index.html)
--   [fArma](http://cran.rstudio.com/web/packages/fArma/index.html) (core)
--   [fAsianOptions](http://cran.rstudio.com/web/packages/fAsianOptions/index.html) (core)
--   [fAssets](http://cran.rstudio.com/web/packages/fAssets/index.html) (core)
--   [FatTailsR](http://cran.rstudio.com/web/packages/FatTailsR/index.html)
--   [fBasics](http://cran.rstudio.com/web/packages/fBasics/index.html) (core)
--   [fBonds](http://cran.rstudio.com/web/packages/fBonds/index.html) (core)
--   [fCopulae](http://cran.rstudio.com/web/packages/fCopulae/index.html) (core)
--   [fExoticOptions](http://cran.rstudio.com/web/packages/fExoticOptions/index.html) (core)
--   [fExtremes](http://cran.rstudio.com/web/packages/fExtremes/index.html) (core)
--   [fgac](http://cran.rstudio.com/web/packages/fgac/index.html)
--   [fGarch](http://cran.rstudio.com/web/packages/fGarch/index.html) (core)
--   [fImport](http://cran.rstudio.com/web/packages/fImport/index.html) (core)
--   [financial](http://cran.rstudio.com/web/packages/financial/index.html)
--   [FinAsym](http://cran.rstudio.com/web/packages/FinAsym/index.html)
--   [FinTS](http://cran.rstudio.com/web/packages/FinTS/index.html)
--   [fMultivar](http://cran.rstudio.com/web/packages/fMultivar/index.html) (core)
--   [fNonlinear](http://cran.rstudio.com/web/packages/fNonlinear/index.html) (core)
--   [fOptions](http://cran.rstudio.com/web/packages/fOptions/index.html) (core)
--   [forecast](http://cran.rstudio.com/web/packages/forecast/index.html)
--   [fPortfolio](http://cran.rstudio.com/web/packages/fPortfolio/index.html) (core)
--   [fracdiff](http://cran.rstudio.com/web/packages/fracdiff/index.html)
--   [fractal](http://cran.rstudio.com/web/packages/fractal/index.html)
--   [fRegression](http://cran.rstudio.com/web/packages/fRegression/index.html) (core)
--   [frmqa](http://cran.rstudio.com/web/packages/frmqa/index.html)
--   [fTrading](http://cran.rstudio.com/web/packages/fTrading/index.html) (core)
--   [fUnitRoots](http://cran.rstudio.com/web/packages/fUnitRoots/index.html) (core)
--   [GCPM](http://cran.rstudio.com/web/packages/GCPM/index.html)
--   [gets](http://cran.rstudio.com/web/packages/gets/index.html)
--   [GEVStableGarch](http://cran.rstudio.com/web/packages/GEVStableGarch/index.html)
--   [ghyp](http://cran.rstudio.com/web/packages/ghyp/index.html)
--   [gmm](http://cran.rstudio.com/web/packages/gmm/index.html)
--   [gogarch](http://cran.rstudio.com/web/packages/gogarch/index.html)
--   [GUIDE](http://cran.rstudio.com/web/packages/GUIDE/index.html)
--   [highfrequency](http://cran.rstudio.com/web/packages/highfrequency/index.html)
--   [IBrokers](http://cran.rstudio.com/web/packages/IBrokers/index.html)
--   [ismev](http://cran.rstudio.com/web/packages/ismev/index.html)
--   [its](http://cran.rstudio.com/web/packages/its/index.html)
--   [lgarch](http://cran.rstudio.com/web/packages/lgarch/index.html)
--   [lifecontingencies](http://cran.rstudio.com/web/packages/lifecontingencies/index.html)
--   [lmtest](http://cran.rstudio.com/web/packages/lmtest/index.html)
--   [longmemo](http://cran.rstudio.com/web/packages/longmemo/index.html)
--   [LSMonteCarlo](http://cran.rstudio.com/web/packages/LSMonteCarlo/index.html)
--   [maRketSim](http://cran.rstudio.com/web/packages/maRketSim/index.html)
--   [markovchain](http://cran.rstudio.com/web/packages/markovchain/index.html)
--   [MarkowitzR](http://cran.rstudio.com/web/packages/MarkowitzR/index.html)
--   [matchingMarkets](http://cran.rstudio.com/web/packages/matchingMarkets/index.html)
--   [MSBVAR](http://cran.rstudio.com/web/packages/MSBVAR/index.html)
--   [mvtnorm](http://cran.rstudio.com/web/packages/mvtnorm/index.html)
--   [nlme](http://cran.rstudio.com/web/packages/nlme/index.html)
--   [NMOF](http://cran.rstudio.com/web/packages/NMOF/index.html)
--   [opefimor](http://cran.rstudio.com/web/packages/opefimor/index.html)
--   [OptHedging](http://cran.rstudio.com/web/packages/OptHedging/index.html)
--   [OptionPricing](http://cran.rstudio.com/web/packages/OptionPricing/index.html)
--   [pa](http://cran.rstudio.com/web/packages/pa/index.html)
--   [parma](http://cran.rstudio.com/web/packages/parma/index.html)
--   [pbo](http://cran.rstudio.com/web/packages/pbo/index.html)
--   [PerformanceAnalytics](http://cran.rstudio.com/web/packages/PerformanceAnalytics/index.html)
+-   [actuar](https://cran.r-project.org/package=actuar)
+-   [AmericanCallOpt](https://cran.r-project.org/package=AmericanCallOpt)
+-   [backtest](https://cran.r-project.org/package=backtest)
+-   [bayesGARCH](https://cran.r-project.org/package=bayesGARCH)
+-   [BenfordTests](https://cran.r-project.org/package=BenfordTests)
+-   [betategarch](https://cran.r-project.org/package=betategarch)
+-   [bizdays](https://cran.r-project.org/package=bizdays)
+-   [BurStFin](https://cran.r-project.org/package=BurStFin)
+-   [BurStMisc](https://cran.r-project.org/package=BurStMisc)
+-   [CADFtest](https://cran.r-project.org/package=CADFtest)
+-   [car](https://cran.r-project.org/package=car)
+-   [ccgarch](https://cran.r-project.org/package=ccgarch)
+-   [ChainLadder](https://cran.r-project.org/package=ChainLadder)
+-   [copula](https://cran.r-project.org/package=copula)
+-   [CreditMetrics](https://cran.r-project.org/package=CreditMetrics)
+-   [credule](https://cran.r-project.org/package=credule)
+-   [crp.CSFP](https://cran.r-project.org/package=crp.CSFP)
+-   [data.table](https://cran.r-project.org/package=data.table)
+-   [dlm](https://cran.r-project.org/package=dlm)
+-   [dse](https://cran.r-project.org/package=dse)
+-   [dyn](https://cran.r-project.org/package=dyn)
+-   [dynlm](https://cran.r-project.org/package=dynlm)
+-   [egcm](https://cran.r-project.org/package=egcm)
+-   [ESG](https://cran.r-project.org/package=ESG)
+-   [evd](https://cran.r-project.org/package=evd)
+-   [evdbayes](https://cran.r-project.org/package=evdbayes)
+-   [evir](https://cran.r-project.org/package=evir)
+-   [extRemes](https://cran.r-project.org/package=extRemes)
+-   [fame](https://cran.r-project.org/package=fame)
+-   [fArma](https://cran.r-project.org/package=fArma) (core)
+-   [fAsianOptions](https://cran.r-project.org/package=fAsianOptions) (core)
+-   [fAssets](https://cran.r-project.org/package=fAssets) (core)
+-   [FatTailsR](https://cran.r-project.org/package=FatTailsR)
+-   [fBasics](https://cran.r-project.org/package=fBasics) (core)
+-   [fBonds](https://cran.r-project.org/package=fBonds) (core)
+-   [fCopulae](https://cran.r-project.org/package=fCopulae) (core)
+-   [fExoticOptions](https://cran.r-project.org/package=fExoticOptions) (core)
+-   [fExtremes](https://cran.r-project.org/package=fExtremes) (core)
+-   [fgac](https://cran.r-project.org/package=fgac)
+-   [fGarch](https://cran.r-project.org/package=fGarch) (core)
+-   [fImport](https://cran.r-project.org/package=fImport) (core)
+-   [financial](https://cran.r-project.org/package=financial)
+-   [FinAsym](https://cran.r-project.org/package=FinAsym)
+-   [FinTS](https://cran.r-project.org/package=FinTS)
+-   [fMultivar](https://cran.r-project.org/package=fMultivar) (core)
+-   [fNonlinear](https://cran.r-project.org/package=fNonlinear) (core)
+-   [fOptions](https://cran.r-project.org/package=fOptions) (core)
+-   [forecast](https://cran.r-project.org/package=forecast)
+-   [fPortfolio](https://cran.r-project.org/package=fPortfolio) (core)
+-   [fracdiff](https://cran.r-project.org/package=fracdiff)
+-   [fractal](https://cran.r-project.org/package=fractal)
+-   [fRegression](https://cran.r-project.org/package=fRegression) (core)
+-   [frmqa](https://cran.r-project.org/package=frmqa)
+-   [fTrading](https://cran.r-project.org/package=fTrading) (core)
+-   [fUnitRoots](https://cran.r-project.org/package=fUnitRoots) (core)
+-   [GCPM](https://cran.r-project.org/package=GCPM)
+-   [gets](https://cran.r-project.org/package=gets)
+-   [GEVStableGarch](https://cran.r-project.org/package=GEVStableGarch)
+-   [ghyp](https://cran.r-project.org/package=ghyp)
+-   [gmm](https://cran.r-project.org/package=gmm)
+-   [gogarch](https://cran.r-project.org/package=gogarch)
+-   [GUIDE](https://cran.r-project.org/package=GUIDE)
+-   [highfrequency](https://cran.r-project.org/package=highfrequency)
+-   [IBrokers](https://cran.r-project.org/package=IBrokers)
+-   [ismev](https://cran.r-project.org/package=ismev)
+-   [its](https://cran.r-project.org/package=its)
+-   [lgarch](https://cran.r-project.org/package=lgarch)
+-   [lifecontingencies](https://cran.r-project.org/package=lifecontingencies)
+-   [lmtest](https://cran.r-project.org/package=lmtest)
+-   [longmemo](https://cran.r-project.org/package=longmemo)
+-   [LSMonteCarlo](https://cran.r-project.org/package=LSMonteCarlo)
+-   [maRketSim](https://cran.r-project.org/package=maRketSim)
+-   [markovchain](https://cran.r-project.org/package=markovchain)
+-   [MarkowitzR](https://cran.r-project.org/package=MarkowitzR)
+-   [matchingMarkets](https://cran.r-project.org/package=matchingMarkets)
+-   [MSBVAR](https://cran.r-project.org/package=MSBVAR)
+-   [mvtnorm](https://cran.r-project.org/package=mvtnorm)
+-   [nlme](https://cran.r-project.org/package=nlme)
+-   [NMOF](https://cran.r-project.org/package=NMOF)
+-   [opefimor](https://cran.r-project.org/package=opefimor)
+-   [OptHedging](https://cran.r-project.org/package=OptHedging)
+-   [OptionPricing](https://cran.r-project.org/package=OptionPricing)
+-   [pa](https://cran.r-project.org/package=pa)
+-   [parma](https://cran.r-project.org/package=parma)
+-   [pbo](https://cran.r-project.org/package=pbo)
+-   [PerformanceAnalytics](https://cran.r-project.org/package=PerformanceAnalytics)
     (core)
--   [portfolio](http://cran.rstudio.com/web/packages/portfolio/index.html)
--   [portfolioSim](http://cran.rstudio.com/web/packages/portfolioSim/index.html)
--   [quantmod](http://cran.rstudio.com/web/packages/quantmod/index.html)
--   [Rbitcoin](http://cran.rstudio.com/web/packages/Rbitcoin/index.html)
--   [Rcmdr](http://cran.rstudio.com/web/packages/Rcmdr/index.html)
--   [restimizeapi](http://cran.rstudio.com/web/packages/restimizeapi/index.html)
--   [riskSimul](http://cran.rstudio.com/web/packages/riskSimul/index.html)
--   [rmgarch](http://cran.rstudio.com/web/packages/rmgarch/index.html)
--   [RND](http://cran.rstudio.com/web/packages/RND/index.html)
--   [RQuantLib](http://cran.rstudio.com/web/packages/RQuantLib/index.html)
--   [rugarch](http://cran.rstudio.com/web/packages/rugarch/index.html)
--   [rwt](http://cran.rstudio.com/web/packages/rwt/index.html)
--   [sandwich](http://cran.rstudio.com/web/packages/sandwich/index.html)
--   [sde](http://cran.rstudio.com/web/packages/sde/index.html)
--   [SharpeR](http://cran.rstudio.com/web/packages/SharpeR/index.html)
--   [SmithWilsonYieldCurve](http://cran.rstudio.com/web/packages/SmithWilsonYieldCurve/index.html)
--   [stochvol](http://cran.rstudio.com/web/packages/stochvol/index.html)
--   [stockPortfolio](http://cran.rstudio.com/web/packages/stockPortfolio/index.html)
--   [strucchange](http://cran.rstudio.com/web/packages/strucchange/index.html)
--   [TAQMNGR](http://cran.rstudio.com/web/packages/TAQMNGR/index.html)
--   [tawny](http://cran.rstudio.com/web/packages/tawny/index.html)
--   [termstrc](http://cran.rstudio.com/web/packages/termstrc/index.html)
--   [TFX](http://cran.rstudio.com/web/packages/TFX/index.html)
--   [timeDate](http://cran.rstudio.com/web/packages/timeDate/index.html) (core)
--   [timeSeries](http://cran.rstudio.com/web/packages/timeSeries/index.html) (core)
--   [timsac](http://cran.rstudio.com/web/packages/timsac/index.html)
--   [tis](http://cran.rstudio.com/web/packages/tis/index.html)
--   [TSdbi](http://cran.rstudio.com/web/packages/TSdbi/index.html)
--   [tsDyn](http://cran.rstudio.com/web/packages/tsDyn/index.html)
--   [tseries](http://cran.rstudio.com/web/packages/tseries/index.html) (core)
--   [tseriesChaos](http://cran.rstudio.com/web/packages/tseriesChaos/index.html)
--   [tsfa](http://cran.rstudio.com/web/packages/tsfa/index.html)
--   [TTR](http://cran.rstudio.com/web/packages/TTR/index.html)
--   [tvm](http://cran.rstudio.com/web/packages/tvm/index.html)
--   [urca](http://cran.rstudio.com/web/packages/urca/index.html) (core)
--   [vars](http://cran.rstudio.com/web/packages/vars/index.html)
--   [VarSwapPrice](http://cran.rstudio.com/web/packages/VarSwapPrice/index.html)
--   [vrtest](http://cran.rstudio.com/web/packages/vrtest/index.html)
--   [wavelets](http://cran.rstudio.com/web/packages/wavelets/index.html)
--   [waveslim](http://cran.rstudio.com/web/packages/waveslim/index.html)
--   [wavethresh](http://cran.rstudio.com/web/packages/wavethresh/index.html)
--   [xts](http://cran.rstudio.com/web/packages/xts/index.html) (core)
--   [ycinterextra](http://cran.rstudio.com/web/packages/ycinterextra/index.html)
--   [YieldCurve](http://cran.rstudio.com/web/packages/YieldCurve/index.html)
--   [Zelig](http://cran.rstudio.com/web/packages/Zelig/index.html)
--   [zoo](http://cran.rstudio.com/web/packages/zoo/index.html) (core)
+-   [portfolio](https://cran.r-project.org/package=portfolio)
+-   [portfolioSim](https://cran.r-project.org/package=portfolioSim)
+-   [quantmod](https://cran.r-project.org/package=quantmod)
+-   [Rbitcoin](https://cran.r-project.org/package=Rbitcoin)
+-   [Rcmdr](https://cran.r-project.org/package=Rcmdr)
+-   [restimizeapi](https://cran.r-project.org/package=restimizeapi)
+-   [riskSimul](https://cran.r-project.org/package=riskSimul)
+-   [rmgarch](https://cran.r-project.org/package=rmgarch)
+-   [RND](https://cran.r-project.org/package=RND)
+-   [RQuantLib](https://cran.r-project.org/package=RQuantLib)
+-   [rugarch](https://cran.r-project.org/package=rugarch)
+-   [rwt](https://cran.r-project.org/package=rwt)
+-   [sandwich](https://cran.r-project.org/package=sandwich)
+-   [sde](https://cran.r-project.org/package=sde)
+-   [SharpeR](https://cran.r-project.org/package=SharpeR)
+-   [SmithWilsonYieldCurve](https://cran.r-project.org/package=SmithWilsonYieldCurve)
+-   [stochvol](https://cran.r-project.org/package=stochvol)
+-   [stockPortfolio](https://cran.r-project.org/package=stockPortfolio)
+-   [strucchange](https://cran.r-project.org/package=strucchange)
+-   [TAQMNGR](https://cran.r-project.org/package=TAQMNGR)
+-   [tawny](https://cran.r-project.org/package=tawny)
+-   [termstrc](https://cran.r-project.org/package=termstrc)
+-   [TFX](https://cran.r-project.org/package=TFX)
+-   [timeDate](https://cran.r-project.org/package=timeDate) (core)
+-   [timeSeries](https://cran.r-project.org/package=timeSeries) (core)
+-   [timsac](https://cran.r-project.org/package=timsac)
+-   [tis](https://cran.r-project.org/package=tis)
+-   [TSdbi](https://cran.r-project.org/package=TSdbi)
+-   [tsDyn](https://cran.r-project.org/package=tsDyn)
+-   [tseries](https://cran.r-project.org/package=tseries) (core)
+-   [tseriesChaos](https://cran.r-project.org/package=tseriesChaos)
+-   [tsfa](https://cran.r-project.org/package=tsfa)
+-   [TTR](https://cran.r-project.org/package=TTR)
+-   [tvm](https://cran.r-project.org/package=tvm)
+-   [urca](https://cran.r-project.org/package=urca) (core)
+-   [vars](https://cran.r-project.org/package=vars)
+-   [VarSwapPrice](https://cran.r-project.org/package=VarSwapPrice)
+-   [vrtest](https://cran.r-project.org/package=vrtest)
+-   [wavelets](https://cran.r-project.org/package=wavelets)
+-   [waveslim](https://cran.r-project.org/package=waveslim)
+-   [wavethresh](https://cran.r-project.org/package=wavethresh)
+-   [xts](https://cran.r-project.org/package=xts) (core)
+-   [ycinterextra](https://cran.r-project.org/package=ycinterextra)
+-   [YieldCurve](https://cran.r-project.org/package=YieldCurve)
+-   [Zelig](https://cran.r-project.org/package=Zelig)
+-   [zoo](https://cran.r-project.org/package=zoo) (core)
 
 ### Related links:
 
