@@ -48,7 +48,7 @@
         <pkg>uncmbb</pkg> contains data on University of North Carolina (at Chapel Hill) Men's Basketball Results since the 1949-50 season.
       </li>
       <li>
-        <pkg>BaseballAnalyzeR</pkg> accompanies the book <a href="https://www.routledge.com/Basketball-Data-Science-With-Applications-in-R/Zuccolotto-Manisera/p/book/9781138600799">Basketball Data Science With Applications in R</a>. This package includes data and functions to analyze and visualize basketball data.
+        <pkg>BasketballAnalyzeR</pkg> accompanies the book <a href="https://www.routledge.com/Basketball-Data-Science-With-Applications-in-R/Zuccolotto-Manisera/p/book/9781138600799">Basketball Data Science With Applications in R</a>. This package includes data and functions to analyze and visualize basketball data.
       </li>
       <li>
         <pkg>NBAloveR</pkg> is an R interface to access basketball data from <a href="https://www.basketball-reference.com">Basketbal Reference</a> API. This package also contains functions to help users with analyzing basketball data. 
@@ -144,6 +144,24 @@
     </ul>
 
     <p>
+    <strong>Volleyball</strong>
+    </p>
+    <ul>
+      <li>
+        <pkg>volleystat</pkg> contains match statistics from the German Volleyball Bundesliga from 2013-14 to 2018-19. Data were extracted from the league <a href="www.volleyball-bundesliga.de">homepage</a>.
+      </li> 
+    </ul>
+    
+    <p>
+    <strong>GPS Tracking</strong>
+    </p>
+    <ul>
+      <li>
+        <pkg>trackeR</pkg> and <pkg>trackeRapp</pkg> provide tools for analyzing running, cycling and swimming data from GPS-enabled tracking devices within R. These two packages allow users to tidy and explore data from workouts and competitions.
+      </li> 
+    </ul>
+
+    <p>
     <strong>General</strong>
     </p>
     <ul>
@@ -173,12 +191,15 @@
     <pkg>BAwiR</pkg>
     <pkg>AdvancedBasketballStats</pkg>
     <pkg>uncmbb</pkg>
-    <pkg>BaseballAnalyzeR</pkg>
+    <pkg>BasketballAnalyzeR</pkg>
     <pkg>NBAloveR</pkg>
     <pkg>SpatialBall</pkg>
     <pkg>fitzRoy</pkg>
     <pkg>yorkr</pkg>
     <pkg>cricketr</pkg>
+    <pkg>volleystat</pkg>
+    <pkg>trackeR</pkg>
+    <pkg>trackeRapp</pkg>
   </packagelist>
 
   <links>

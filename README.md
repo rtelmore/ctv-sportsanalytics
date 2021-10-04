@@ -36,7 +36,7 @@ below) so that pull requests are possible.
 -   [uncmbb](https://cran.r-project.org/package=uncmbb) contains data on University
     of North Carolina (at Chapel Hill) Men's Basketball Results since
     the 1949-50 season.
--   [BaseballAnalyzeR](https://cran.r-project.org/package=BaseballAnalyzeR)
+-   [BasketballAnalyzeR](https://cran.r-project.org/package=BasketballAnalyzeR)
     accompanies the book [Basketball Data Science With Applications in
     R](https://www.routledge.com/Basketball-Data-Science-With-Applications-in-R/Zuccolotto-Manisera/p/book/9781138600799)
     . This package includes data and functions to analyze and visualize
@@ -125,6 +125,21 @@ below) so that pull requests are possible.
     [ESPN Cricinfo
     Statsguru](https://stats.espncricinfo.com/ci/engine/stats) data.
 
+**Volleyball**
+
+-   [volleystat](https://cran.r-project.org/package=volleystat) contains match
+    statistics from the German Volleyball Bundesliga from 2013-14 to
+    2018-19. Data were extracted from the league
+    [homepage](www.volleyball-bundesliga.de) .
+
+**GPS Tracking**
+
+-   [trackeR](https://cran.r-project.org/package=trackeR) and
+    [trackeRapp](https://cran.r-project.org/package=trackeRapp) provide tools for
+    analyzing running, cycling and swimming data from GPS-enabled
+    tracking devices within R. These two packages allow users to tidy
+    and explore data from workouts and competitions.
+
 **General**
 
 -   [teamcolors](https://cran.r-project.org/package=teamcolors) provides color
@@ -137,7 +152,7 @@ below) so that pull requests are possible.
 ### CRAN packages:
 
 -   [AdvancedBasketballStats](https://cran.r-project.org/package=AdvancedBasketballStats)
--   [BaseballAnalyzeR](https://cran.r-project.org/package=BaseballAnalyzeR)
+-   [BasketballAnalyzeR](https://cran.r-project.org/package=BasketballAnalyzeR)
 -   [BAwiR](https://cran.r-project.org/package=BAwiR)
 -   [bigchess](https://cran.r-project.org/package=bigchess)
 -   [chess](https://cran.r-project.org/package=chess)
@@ -156,7 +171,10 @@ below) so that pull requests are possible.
 -   [stockfish](https://cran.r-project.org/package=stockfish)
 -   [SwimmeR](https://cran.r-project.org/package=SwimmeR)
 -   [teamcolors](https://cran.r-project.org/package=teamcolors)
+-   [trackeR](https://cran.r-project.org/package=trackeR)
+-   [trackeRapp](https://cran.r-project.org/package=trackeRapp)
 -   [uncmbb](https://cran.r-project.org/package=uncmbb)
+-   [volleystat](https://cran.r-project.org/package=volleystat)
 -   [yorkr](https://cran.r-project.org/package=yorkr)
 
 ### Related links:
