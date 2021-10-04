@@ -88,10 +88,13 @@
         <pkg>fbRanks</pkg> helps with estimating team strengths and rankings using time dependent Poisson regression and data on number of goals scored.
       </li>
       <li>
-        <pkg>ggsoccer</pkg> provides functions for visualizing soccer event data in ggplot2.
+        <pkg>ggsoccer</pkg> provides functions for visualizing soccer event data in <pkg>ggplot2</pkg>.
       </li>
       <li>
         <pkg>qqr</pkg> is a collection of Brazilian Soccer Championship data on match statistics since 2014.
+      </li>
+      <li>
+        <pkg>footballpenaltiesBL</pkg> contains data and plotting functions for analyzing penalty kicks in the German Men's Bundesliga from 1963-64 to 2016-17.
       </li>
     </ul>
 
@@ -115,15 +118,19 @@
     </p>
     <ul>
       <li>
-        <pkg>SwimmeR</pkg> reads swimming results in a variety of formats and returns results in tidy data frames. It also includes functions for coverting times between short-course yards (SCY), short-course meters (SCM), and long-course meters (LCM).
+        <pkg>SwimmeR</pkg> reads swimming results in a variety of formats and returns results in tidy data frame. It also includes functions for coverting times between short-course yards (SCY), short-course meters (SCM), and long-course meters (LCM).
       </li> 
     </ul>
 
     <p>
-    <strong>Tennis</strong>
+    <strong>Cricket</strong>
     </p>
     <ul>
       <li>
+        <pkg>yorkr</pkg> provides functions for analyzing statistics of cricket players and teams based on <a href = "https://cricsheet.org">Cricsheet</a> data.
+      </li> 
+      <li>
+        <pkg>cricketr</pkg> is a collection of tools for analyzing cricket performances of players and teams based on <a href = "https://stats.espncricinfo.com/ci/engine/stats">ESPN Cricinfo Statsguru</a> data.
       </li> 
     </ul>
 
@@ -149,6 +156,7 @@
     <pkg>fbRanks</pkg>
     <pkg>ggsoccer</pkg>
     <pkg>qqr</pkg>
+    <pkg>footballpenaltiesBL</pkg>
     <pkg>swimmeR</pkg>
     <pkg>chess</pkg>
     <pkg>stockfish</pkg>

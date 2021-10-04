@@ -69,9 +69,13 @@ below) so that pull requests are possible.
     strengths and rankings using time dependent Poisson regression and
     data on number of goals scored.
 -   [ggsoccer](https://cran.r-project.org/package=ggsoccer) provides functions for
-    visualizing soccer event data in ggplot2.
+    visualizing soccer event data in
+    [ggplot2](https://cran.r-project.org/package=ggplot2).
 -   [qqr](https://cran.r-project.org/package=qqr) is a collection of Brazilian
     Soccer Championship data on match statistics since 2014.
+-   [footballpenaltiesBL](https://cran.r-project.org/package=footballpenaltiesBL)
+    contains data and plotting functions for analyzing penalty kicks in
+    the German Men's Bundesliga from 1963-64 to 2016-17.
 
 **Chess**
 
@@ -95,14 +99,19 @@ below) so that pull requests are possible.
 **Swimming**
 
 -   [SwimmeR](https://cran.r-project.org/package=SwimmeR) reads swimming results in
-    a variety of formats and returns results in tidy data frames. It
-    also includes functions for coverting times between short-course
-    yards (SCY), short-course meters (SCM), and long-course meters
-    (LCM).
+    a variety of formats and returns results in tidy data frame. It also
+    includes functions for coverting times between short-course yards
+    (SCY), short-course meters (SCM), and long-course meters (LCM).
 
-**Tennis**
+**Cricket**
 
--   
+-   [yorkr](https://cran.r-project.org/package=yorkr) provides functions for
+    analyzing statistics of cricket players and teams based on
+    [Cricsheet](https://cricsheet.org) data.
+-   [cricketr](https://cran.r-project.org/package=cricketr) is a collection of tools
+    for analyzing cricket performances of players and teams based on
+    [ESPN Cricinfo
+    Statsguru](https://stats.espncricinfo.com/ci/engine/stats) data.
 
 **General**
 
@@ -119,6 +128,7 @@ below) so that pull requests are possible.
 -   [chess](https://cran.r-project.org/package=chess)
 -   [engsoccerdata](https://cran.r-project.org/package=engsoccerdata)
 -   [fbRanks](https://cran.r-project.org/package=fbRanks)
+-   [footballpenaltiesBL](https://cran.r-project.org/package=footballpenaltiesBL)
 -   [ggsoccer](https://cran.r-project.org/package=ggsoccer)
 -   [Lahman](https://cran.r-project.org/package=Lahman)
 -   [pitchRx](https://cran.r-project.org/package=pitchRx)
