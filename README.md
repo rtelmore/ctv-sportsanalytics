@@ -37,9 +37,10 @@ below) so that pull requests are possible.
     of North Carolina (at Chapel Hill) Men's Basketball Results since
     the 1949-50 season.
 -   [BaseballAnalyzeR](https://cran.r-project.org/package=BaseballAnalyzeR)
-    accompanies the book Basketball Data Science With Applications in R
-    by P. Zuccolotto and M. Manisera. This package includes data and
-    functions to analyze and visualize basketball data.
+    accompanies the book [Basketball Data Science With Applications in
+    R](https://www.routledge.com/Basketball-Data-Science-With-Applications-in-R/Zuccolotto-Manisera/p/book/9781138600799)
+    . This package includes data and functions to analyze and visualize
+    basketball data.
 -   [NBAloveR](https://cran.r-project.org/package=NBAloveR) is an R interface to
     access basketball data from I [Basketbal
     Reference](https://www.basketball-reference.com) API. This package

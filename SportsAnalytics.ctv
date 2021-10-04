@@ -48,7 +48,7 @@
         <pkg>uncmbb</pkg> contains data on University of North Carolina (at Chapel Hill) Men's Basketball Results since the 1949-50 season.
       </li>
       <li>
-        <pkg>BaseballAnalyzeR</pkg> accompanies the book Basketball Data Science With Applications in R by P. Zuccolotto and M. Manisera. This package includes data and functions to analyze and visualize basketball data.
+        <pkg>BaseballAnalyzeR</pkg> accompanies the book <a href="https://www.routledge.com/Basketball-Data-Science-With-Applications-in-R/Zuccolotto-Manisera/p/book/9781138600799">Basketball Data Science With Applications in R</a>. This package includes data and functions to analyze and visualize basketball data.
       </li>
       <li>
         <pkg>NBAloveR</pkg> is an R interface to access basketball data from I <a href="https://www.basketball-reference.com">Basketbal Reference</a> API. This package also contains functions to help users with analyzing basketball data. 
