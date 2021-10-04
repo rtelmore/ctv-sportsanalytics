@@ -80,6 +80,15 @@
     </ul>
 
     <p>
+    <strong>Swimming</strong>
+    </p>
+    <ul>
+      <li>
+        <pkg>SwimmeR</pkg> reads swimming results in a variety of formats and returns results in tidy data frames. It also includes functions for coverting times between short-course yards (SCY), short-course meters (SCM), and long-course meters (LCM).
+      </li> 
+    </ul>
+
+    <p>
     <strong>Tennis</strong>
     </p>
     <ul>
