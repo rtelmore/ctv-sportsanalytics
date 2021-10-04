@@ -41,9 +41,10 @@ below) so that pull requests are possible.
     by P. Zuccolotto and M. Manisera. This package includes data and
     functions to analyze and visualize basketball data.
 -   [NBAloveR](https://cran.r-project.org/package=NBAloveR) is an R interface to
-    access basketball data from Basketball-Reference.com's API. This
-    package also contains functions to help users with analyzing
-    basketball data.
+    access basketball data from I [Basketbal
+    Reference](https://www.basketball-reference.com) API. This package
+    also contains functions to help users with analyzing basketball
+    data.
 -   [SpatialBall](https://cran.r-project.org/package=SpatialBall) helps with spatial
     analysis of NBA data, in particular, generating offensive and
     defensive shot charts for teams, players, and seasons.
@@ -59,9 +60,9 @@ below) so that pull requests are possible.
 **Soccer**
 
 -   European soccer data is available through the
-    [engsoccerdata](https://cran.r-project.org/package=engsoccerdata) cpackage,
-    which contains match results for English and other European soccer
-    leagues going back to 1871.
+    [engsoccerdata](https://cran.r-project.org/package=engsoccerdata) package, which
+    contains match results for English and other European soccer leagues
+    dating back to 1871.
 -   [socceR](https://cran.r-project.org/package=socceR) provides functions for
     evaluating soccer predictions and simulating results from soccer
     matches and tournament.
@@ -103,6 +104,16 @@ below) so that pull requests are possible.
     includes functions for coverting times between short-course yards
     (SCY), short-course meters (SCM), and long-course meters (LCM).
 
+**Australia Rules Football**
+
+-   [fitzRoy](https://cran.r-project.org/package=fitzRoy) is a package for scraping
+    and processing Australian Football League (AFL) data.
+    [fitzRoy](https://cran.r-project.org/package=fitzRoy) provides access to
+    publicly data sources such as [AFL
+    Tables](https://afltables.com/afl/afl_index.html) , [Footy
+    Wire](https://www.footywire.com) , and [The
+    Squiggle](https://squiggle.com.au) .
+
 **Cricket**
 
 -   [yorkr](https://cran.r-project.org/package=yorkr) provides functions for
@@ -135,7 +146,7 @@ below) so that pull requests are possible.
 -   [qqr](https://cran.r-project.org/package=qqr)
 -   [socceR](https://cran.r-project.org/package=socceR)
 -   [stockfish](https://cran.r-project.org/package=stockfish)
--   [swimmeR](https://cran.r-project.org/package=swimmeR)
+-   [SwimmeR](https://cran.r-project.org/package=SwimmeR)
 -   [teamcolors](https://cran.r-project.org/package=teamcolors)
 
 ### Related links:

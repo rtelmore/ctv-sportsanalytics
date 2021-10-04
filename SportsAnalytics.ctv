@@ -51,7 +51,7 @@
         <pkg>BaseballAnalyzeR</pkg> accompanies the book Basketball Data Science With Applications in R by P. Zuccolotto and M. Manisera. This package includes data and functions to analyze and visualize basketball data.
       </li>
       <li>
-        <pkg>NBAloveR</pkg> is an R interface to access basketball data from Basketball-Reference.com's API. This package also contains functions to help users with analyzing basketball data. 
+        <pkg>NBAloveR</pkg> is an R interface to access basketball data from I <a href="https://www.basketball-reference.com">Basketbal Reference</a> API. This package also contains functions to help users with analyzing basketball data. 
       </li>
       <li>
         <pkg>SpatialBall</pkg> helps with spatial analysis of NBA data, in particular, generating offensive and defensive shot charts for teams, players, and seasons.
@@ -79,7 +79,7 @@
     </p>
     <ul>
       <li>
-        European soccer data is available through the <pkg>engsoccerdata</pkg>cpackage, which contains match results for English and other European soccer leagues going back to 1871. 
+        European soccer data is available through the <pkg>engsoccerdata</pkg> package, which contains match results for English and other European soccer leagues dating back to 1871. 
       </li>
       <li>
         <pkg>socceR</pkg> provides functions for evaluating soccer predictions and simulating results from soccer matches and tournament.
@@ -121,6 +121,15 @@
         <pkg>SwimmeR</pkg> reads swimming results in a variety of formats and returns results in tidy data frame. It also includes functions for coverting times between short-course yards (SCY), short-course meters (SCM), and long-course meters (LCM).
       </li> 
     </ul>
+    
+    <p>
+    <strong>Australia Rules Football</strong>
+    </p>
+    <ul>
+      <li>
+        <pkg>fitzRoy</pkg> is a package for scraping and processing Australian Football League (AFL) data. <pkg>fitzRoy</pkg> provides access to publicly data sources such as<a href="https://afltables.com/afl/afl_index.html">AFL Tables</a>,<a href="https://www.footywire.com">Footy Wire</a>, and<a href="https://squiggle.com.au">The Squiggle</a>.
+      </li> 
+    </ul>
 
     <p>
     <strong>Cricket</strong>
@@ -157,7 +166,7 @@
     <pkg>ggsoccer</pkg>
     <pkg>qqr</pkg>
     <pkg>footballpenaltiesBL</pkg>
-    <pkg>swimmeR</pkg>
+    <pkg>SwimmeR</pkg>
     <pkg>chess</pkg>
     <pkg>stockfish</pkg>
     <pkg>bigchess</pkg>
