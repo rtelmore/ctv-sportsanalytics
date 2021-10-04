@@ -35,11 +35,27 @@
     </ul>
 
     <p>
-    <strong>Basketball</strong>
+    <strong>Baskstball</strong>
     </p>
     <ul>
       <li>
-      </li> 
+        <pkg>BAwiR</pkg>
+      </li>
+      <li>
+        <pkg>AdvancedBasketballStats</pkg>
+      </li>
+      <li>
+        <pkg>uncmbb</pkg>
+      </li>
+      <li>
+        <pkg>BaseballAnalyzeR</pkg>
+      </li>
+      <li>
+        <pkg>NBAloveR</pkg>
+      </li>
+      <li>
+        <pkg>SpatialBall</pkg>
+      </li>
     </ul>
 
     <p>
