@@ -96,6 +96,30 @@
     </ul>
 
     <p>
+    <strong>Chess</strong>
+    </p>
+    <ul>
+      <li>
+        <pkg>chess</pkg> is an opinionated wrapper for R around <a href="https://github.com/niklasf/python-chess">python-chess</a>. It reads and writes <a href="https://en.wikipedia.org/wiki/Portable_Game_Notation">PGN files</a> and SVGs of game boards. 
+      </li> 
+      <li>
+        <pkg>stockfish</pkg> is an R package that implements the UCI open communication protocol and ships with <a href="https://github.com/official-stockfish/Stockfish">Stockfish</a>, a popular, open source, powerful chess engine written in C++.
+      </li>
+      <li>
+        Like <pkg>chess</pkg>, <pkg>bigchess</pkg> reads and writes PGN files. And like <pkg>stockfish</pkg>, <pkg>bigchess</pkg> provides an API to the UCI chess engines. <pkg>bigchess</pkg> is also able to read multiple game files at once without copying to RAM. 
+      </li>
+    </ul>
+
+    <p>
+    <strong>Swimming</strong>
+    </p>
+    <ul>
+      <li>
+        <pkg>SwimmeR</pkg> reads swimming results in a variety of formats and returns results in tidy data frames. It also includes functions for coverting times between short-course yards (SCY), short-course meters (SCM), and long-course meters (LCM).
+      </li> 
+    </ul>
+
+    <p>
     <strong>Tennis</strong>
     </p>
     <ul>
@@ -125,6 +149,10 @@
     <pkg>fbRanks</pkg>
     <pkg>ggsoccer</pkg>
     <pkg>qqr</pkg>
+    <pkg>swimmeR</pkg>
+    <pkg>chess</pkg>
+    <pkg>stockfish</pkg>
+    <pkg>bigchess</pkg>
   </packagelist>
 
   <links>
