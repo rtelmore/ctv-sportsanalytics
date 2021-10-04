@@ -170,6 +170,15 @@
     <pkg>chess</pkg>
     <pkg>stockfish</pkg>
     <pkg>bigchess</pkg>
+    <pkg>BAwiR</pkg>
+    <pkg>AdvancedBasketballStats</pkg>
+    <pkg>uncmbb</pkg>
+    <pkg>BaseballAnalyzeR</pkg>
+    <pkg>NBAloveR</pkg>
+    <pkg>SpatialBall</pkg>
+    <pkg>fitzRoy</pkg>
+    <pkg>yorkr</pkg>
+    <pkg>cricketr</pkg>
   </packagelist>
 
   <links>

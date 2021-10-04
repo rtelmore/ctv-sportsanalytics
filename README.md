@@ -136,19 +136,28 @@ below) so that pull requests are possible.
 
 ### CRAN packages:
 
+-   [AdvancedBasketballStats](https://cran.r-project.org/package=AdvancedBasketballStats)
+-   [BaseballAnalyzeR](https://cran.r-project.org/package=BaseballAnalyzeR)
+-   [BAwiR](https://cran.r-project.org/package=BAwiR)
 -   [bigchess](https://cran.r-project.org/package=bigchess)
 -   [chess](https://cran.r-project.org/package=chess)
+-   [cricketr](https://cran.r-project.org/package=cricketr)
 -   [engsoccerdata](https://cran.r-project.org/package=engsoccerdata)
 -   [fbRanks](https://cran.r-project.org/package=fbRanks)
+-   [fitzRoy](https://cran.r-project.org/package=fitzRoy)
 -   [footballpenaltiesBL](https://cran.r-project.org/package=footballpenaltiesBL)
 -   [ggsoccer](https://cran.r-project.org/package=ggsoccer)
 -   [Lahman](https://cran.r-project.org/package=Lahman)
+-   [NBAloveR](https://cran.r-project.org/package=NBAloveR)
 -   [pitchRx](https://cran.r-project.org/package=pitchRx)
 -   [qqr](https://cran.r-project.org/package=qqr)
 -   [socceR](https://cran.r-project.org/package=socceR)
+-   [SpatialBall](https://cran.r-project.org/package=SpatialBall)
 -   [stockfish](https://cran.r-project.org/package=stockfish)
 -   [SwimmeR](https://cran.r-project.org/package=SwimmeR)
 -   [teamcolors](https://cran.r-project.org/package=teamcolors)
+-   [uncmbb](https://cran.r-project.org/package=uncmbb)
+-   [yorkr](https://cran.r-project.org/package=yorkr)
 
 ### Related links:
 
