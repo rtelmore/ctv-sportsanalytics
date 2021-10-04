@@ -51,6 +51,25 @@ below) so that pull requests are possible.
   - [qqr](https://cran.r-project.org/package=qqr) is a collection of Brazilian
     Soccer Championship data on match statistics since 2014.
 
+**Chess**
+
+  - [chess](https://cran.r-project.org/package=chess) is an opinionated wrapper for
+    R around [python-chess](https://github.com/niklasf/python-chess) .
+    It reads and writes [PGN
+    files](https://en.wikipedia.org/wiki/Portable_Game_Notation) and
+    SVGs of game boards.
+  - [stockfish](https://cran.r-project.org/package=stockfish) is an R package that
+    implements the UCI open communication protocol and ships with
+    [Stockfish](https://github.com/official-stockfish/Stockfish) , a
+    popular, open source, powerful chess engine written in C++.
+  - Like [chess](https://cran.r-project.org/package=chess),
+    [bigchess](https://cran.r-project.org/package=bigchess) reads and writes PGN
+    files. And like [stockfish](https://cran.r-project.org/package=stockfish),
+    [bigchess](https://cran.r-project.org/package=bigchess) provides an API to the
+    UCI chess engines. [bigchess](https://cran.r-project.org/package=bigchess) is
+    also able to read multiple game files at once without copying to
+    RAM.
+
 **Swimming**
 
   - [SwimmeR](https://cran.r-project.org/package=SwimmeR) reads swimming results in
@@ -73,6 +92,8 @@ below) so that pull requests are possible.
 
 ### CRAN packages:
 
+  - [bigchess](https://cran.r-project.org/package=bigchess)
+  - [chess](https://cran.r-project.org/package=chess)
   - [engsoccerdata](https://cran.r-project.org/package=engsoccerdata)
   - [fbRanks](https://cran.r-project.org/package=fbRanks)
   - [ggsoccer](https://cran.r-project.org/package=ggsoccer)
@@ -80,6 +101,8 @@ below) so that pull requests are possible.
   - [pitchRx](https://cran.r-project.org/package=pitchRx)
   - [qqr](https://cran.r-project.org/package=qqr)
   - [socceR](https://cran.r-project.org/package=socceR)
+  - [stockfish](https://cran.r-project.org/package=stockfish)
+  - [swimmeR](https://cran.r-project.org/package=swimmeR)
   - [teamcolors](https://cran.r-project.org/package=teamcolors)
 
 ### Related links:
