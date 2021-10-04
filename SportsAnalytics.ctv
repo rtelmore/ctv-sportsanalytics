@@ -39,22 +39,22 @@
     </p>
     <ul>
       <li>
-        <pkg>BAwiR</pkg>
+        <pkg>BAwiR</pkg> is a collection of tools to analyze basketball data, with focus on data scraping and visualization.
       </li>
       <li>
-        <pkg>AdvancedBasketballStats</pkg>
+        <pkg>AdvancedBasketballStats</pkg> provides functions to calculate and analyze basketball statistics for players, teams, lineups (quintets), and plays.
       </li>
       <li>
-        <pkg>uncmbb</pkg>
+        <pkg>uncmbb</pkg> contains data on University of North Carolina (at Chapel Hill) Men's Basketball Results since the 1949-50 season.
       </li>
       <li>
-        <pkg>BaseballAnalyzeR</pkg>
+        <pkg>BaseballAnalyzeR</pkg> accompanies the book Basketball Data Science With Applications in R by P. Zuccolotto and M. Manisera. This package includes data and functions to analyze and visualize basketball data.
       </li>
       <li>
-        <pkg>NBAloveR</pkg>
+        <pkg>NBAloveR</pkg> is an R interface to access basketball data from Basketball-Reference.com's API. This package also contains functions to help users with analyzing basketball data. 
       </li>
       <li>
-        <pkg>SpatialBall</pkg>
+        <pkg>SpatialBall</pkg> helps with spatial analysis of NBA data, in particular, generating offensive and defensive shot charts for teams, players, and seasons.
       </li>
     </ul>
 
