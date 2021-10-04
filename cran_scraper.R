@@ -39,7 +39,7 @@ spt <- c(
   "sports",
   "betting",
   "olympics",
-  "athletics",
+  "athletics"
 )
 
 spt_regex <- str_c("\\s", str_c(spt, collapse = "\\s|\\s"), "\\s")

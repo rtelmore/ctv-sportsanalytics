@@ -63,7 +63,20 @@
     </p>
     <ul>
       <li>
-      </li> 
+        European soccer data is available through the <pkg>engsoccerdata</pkg>cpackage, which contains match results for English and other European soccer leagues going back to 1871. 
+      </li>
+      <li>
+        <pkg>socceR</pkg> provides functions for evaluating soccer predictions and simulating results from soccer matches and tournament.
+      </li>
+      <li>
+        <pkg>fbRanks</pkg> helps with estimating team strengths and rankings using time dependent Poisson regression and data on number of goals scored.
+      </li>
+      <li>
+        <pkg>ggsoccer</pkg> provides functions for visualizing soccer event data in ggplot2.
+      </li>
+      <li>
+        <pkg>qqr</pkg> is a collection of Brazilian Soccer Championship data on match statistics since 2014.
+      </li>
     </ul>
 
     <p>
@@ -73,7 +86,6 @@
       <li>
       </li> 
     </ul>
-
 
     <p>
     <strong>General</strong>
@@ -92,6 +104,11 @@
     <pkg>Lahman</pkg>
     <pkg>pitchRx</pkg>
     <pkg>teamcolors</pkg>
+    <pkg>engsoccerdata</pkg>
+    <pkg>socceR</pkg>
+    <pkg>fbRanks</pkg>
+    <pkg>ggsoccer</pkg>
+    <pkg>qqr</pkg>
   </packagelist>
 
   <links>
