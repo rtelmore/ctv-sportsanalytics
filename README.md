@@ -42,7 +42,7 @@ below) so that pull requests are possible.
     . This package includes data and functions to analyze and visualize
     basketball data.
 -   [NBAloveR](https://cran.r-project.org/package=NBAloveR) is an R interface to
-    access basketball data from I [Basketbal
+    access basketball data from [Basketbal
     Reference](https://www.basketball-reference.com) API. This package
     also contains functions to help users with analyzing basketball
     data.
