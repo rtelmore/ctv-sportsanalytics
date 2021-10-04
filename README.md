@@ -105,7 +105,7 @@ below) so that pull requests are possible.
     includes functions for coverting times between short-course yards
     (SCY), short-course meters (SCM), and long-course meters (LCM).
 
-**Australia Rules Football**
+**Australian Rules Football**
 
 -   [fitzRoy](https://cran.r-project.org/package=fitzRoy) is a package for scraping
     and processing Australian Football League (AFL) data.
