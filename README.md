@@ -25,7 +25,7 @@ below) so that pull requests are possible.
     pitch-level data through the Major League Baseball Advanced Media
     API.
 
-**Baskstball**
+**Basketball**
 
 -   [BAwiR](https://cran.r-project.org/package=BAwiR) is a collection of tools to
     analyze basketball data, with focus on data scraping and
