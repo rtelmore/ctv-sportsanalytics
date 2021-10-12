@@ -222,6 +222,6 @@ below) so that pull requests are possible.
 
 ### Related links:
 
--   CRAN Task View: [Econometrics](Econometrics.html)
+-   CRAN Task View: [SportsAnalytics](SportsAnalytics.html)
 -   [GitHub repository for this Task
     View](https://github.com/beanumber/ctv-sportsanalytics)
