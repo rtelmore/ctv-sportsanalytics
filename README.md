@@ -1,5 +1,4 @@
-CRAN Task View: Sports Analytics
---------------------------------
+## CRAN Task View: Sports Analytics
 
                                                                                                                          
 **Maintainer:** Ben Baumer                                                                                               
@@ -21,6 +20,14 @@ below) so that pull requests are possible.
 -   Historial baseball data is available through the
     [Lahman](https://cran.r-project.org/package=Lahman) package, which contains
     season-level data for Major League Baseball going back to 1871.
+-   [retrosheet](https://cran.r-project.org/package=retrosheet) facilitates
+    downloading game log, team IDs, rosters, and play-by-play and other
+    files from [Retrosheet.org](http://wwws.retrosheet.org/) , and
+    returning the results as data frames. Local caching can be employed
+    to improve efficiency. Note that the play-by-play data returned
+    comes directly from the event files and is not parsed (i.e.,
+    [Chadwick](https://github.com/chadwickbureau/chadwick) is not
+    bundled).
 -   [pitchRx](https://cran.r-project.org/package=pitchRx) provides access to
     pitch-level data through the Major League Baseball Advanced Media
     API.
@@ -52,7 +59,23 @@ below) so that pull requests are possible.
 
 **Football**
 
--   
+-   [nflfastR](https://cran.r-project.org/package=nflfastR) contains functions to
+    efficiently scrape NFL play-by-play data from 1999 to present.
+    Similar to [nflscrapR](https://cran.r-project.org/package=nflscrapR), but much
+    faster.
+-   [fflr](https://cran.r-project.org/package=fflr) contains functions for accessing
+    ESPN raw fantasy football data from the ESPN fantasy football API
+    and formatting the raw data.
+-   [ffsimulator](https://cran.r-project.org/package=ffsimulator) allows users to
+    simulate fantasy football seasons using bootstrap simulations.
+    Simualtions are based on historical rankings and data from the
+    package [nflfastr](https://cran.r-project.org/package=nflfastr). In addition,
+    functions for computing optimal lineups and aggregating results are
+    provided.
+-   [ffscrapr](https://cran.r-project.org/package=ffscrapr) API Client for Fantasy
+    Football League Platforms
+-   [nfl4th](https://cran.r-project.org/package=nfl4th)
+-   [nflseedR](https://cran.r-project.org/package=nflseedR)
 
 **Hockey**
 
@@ -166,6 +189,7 @@ below) so that pull requests are possible.
 -   [NBAloveR](https://cran.r-project.org/package=NBAloveR)
 -   [pitchRx](https://cran.r-project.org/package=pitchRx)
 -   [qqr](https://cran.r-project.org/package=qqr)
+-   [retrosheet](https://cran.r-project.org/package=retrosheet)
 -   [socceR](https://cran.r-project.org/package=socceR)
 -   [SpatialBall](https://cran.r-project.org/package=SpatialBall)
 -   [stockfish](https://cran.r-project.org/package=stockfish)

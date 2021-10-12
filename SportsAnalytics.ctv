@@ -29,6 +29,9 @@
         going back to 1871. 
       </li>
       <li>
+        <pkg>retrosheet</pkg> facilitates downloading game log, team IDs, rosters, and play-by-play and other files from <a href="http://wwws.retrosheet.org/">Retrosheet.org</a>, and returning the results as data frames. Local caching can be employed to improve efficiency. Note that the play-by-play data returned comes directly from the event files and is not parsed (i.e., <a href="https://github.com/chadwickbureau/chadwick">Chadwick</a> is not bundled). 
+      </li>
+      <li>
         <pkg>pitchRx</pkg> provides access to pitch-level data
         through the Major League Baseball Advanced Media API. 
       </li>
@@ -205,6 +208,7 @@
 
   <packagelist>
     <pkg>Lahman</pkg>
+    <pkg>retrosheet</pkg>
     <pkg>pitchRx</pkg>
     <pkg>teamcolors</pkg>
     <pkg>engsoccerdata</pkg>
