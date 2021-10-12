@@ -38,6 +38,9 @@
       <li>
         <pkg>mlbstats</pkg> provides functions for vector-based computation of many baseball statistics, both traditional and sabermetric. This should not be confused with <pkg>mlbstatsR</pkg> which provides an interface to websites such as MLB.com, ESPN.com, and Baseball-Reference.com. <pkg>mlbstatsR</pkg> can download IDs and stats for players and team, as well as MLB logos. 
       </li>
+      <li>
+        <pkg>baseballDBR</pkg> leverages the backend database functionality of <pkg>dplyr</pkg> to build local databases that mirror the data contained in <pkg>Lahman</pkg>. Like <pkg>mlbstats</pkg>, it also includes functions to compute baseball statistics, but on data frames rather than vectors. 
+      </li>
     </ul>
 
     <p>
@@ -215,6 +218,7 @@
     <pkg>pitchRx</pkg>
     <pkg>mlbstats</pkg>
     <pkg>mlbstatsR</pkg>
+    <pkg>baseballDBR</pkg>
     <pkg>teamcolors</pkg>
     <pkg>engsoccerdata</pkg>
     <pkg>socceR</pkg>

@@ -39,6 +39,14 @@ below) so that pull requests are possible.
     Baseball-Reference.com.
     [mlbstatsR](https://cran.r-project.org/package=mlbstatsR) can download IDs and
     stats for players and team, as well as MLB logos.
+-   [baseballDBR](https://cran.r-project.org/package=baseballDBR) leverages the
+    backend database functionality of
+    [dplyr](https://cran.r-project.org/package=dplyr) to build local databases that
+    mirror the data contained in
+    [Lahman](https://cran.r-project.org/package=Lahman). Like
+    [mlbstats](https://cran.r-project.org/package=mlbstats), it also includes
+    functions to compute baseball statistics, but on data frames rather
+    than vectors.
 
 **Basketball**
 
@@ -183,6 +191,7 @@ below) so that pull requests are possible.
 ### CRAN packages:
 
 -   [AdvancedBasketballStats](https://cran.r-project.org/package=AdvancedBasketballStats)
+-   [baseballDBR](https://cran.r-project.org/package=baseballDBR)
 -   [BasketballAnalyzeR](https://cran.r-project.org/package=BasketballAnalyzeR)
 -   [BAwiR](https://cran.r-project.org/package=BAwiR)
 -   [bigchess](https://cran.r-project.org/package=bigchess)
