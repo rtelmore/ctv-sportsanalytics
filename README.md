@@ -31,6 +31,14 @@ below) so that pull requests are possible.
 -   [pitchRx](https://cran.r-project.org/package=pitchRx) provides access to
     pitch-level data through the Major League Baseball Advanced Media
     API.
+-   [mlbstats](https://cran.r-project.org/package=mlbstats) provides functions for
+    vector-based computation of many baseball statistics, both
+    traditional and sabermetric. This should not be confused with
+    [mlbstatsR](https://cran.r-project.org/package=mlbstatsR) which provides an
+    interface to websites such as MLB.com, ESPN.com, and
+    Baseball-Reference.com.
+    [mlbstatsR](https://cran.r-project.org/package=mlbstatsR) can download IDs and
+    stats for players and team, as well as MLB logos.
 
 **Basketball**
 
@@ -186,6 +194,8 @@ below) so that pull requests are possible.
 -   [footballpenaltiesBL](https://cran.r-project.org/package=footballpenaltiesBL)
 -   [ggsoccer](https://cran.r-project.org/package=ggsoccer)
 -   [Lahman](https://cran.r-project.org/package=Lahman)
+-   [mlbstats](https://cran.r-project.org/package=mlbstats)
+-   [mlbstatsR](https://cran.r-project.org/package=mlbstatsR)
 -   [NBAloveR](https://cran.r-project.org/package=NBAloveR)
 -   [pitchRx](https://cran.r-project.org/package=pitchRx)
 -   [qqr](https://cran.r-project.org/package=qqr)

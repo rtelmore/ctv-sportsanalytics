@@ -35,6 +35,9 @@
         <pkg>pitchRx</pkg> provides access to pitch-level data
         through the Major League Baseball Advanced Media API. 
       </li>
+      <li>
+        <pkg>mlbstats</pkg> provides functions for vector-based computation of many baseball statistics, both traditional and sabermetric. This should not be confused with <pkg>mlbstatsR</pkg> which provides an interface to websites such as MLB.com, ESPN.com, and Baseball-Reference.com. <pkg>mlbstatsR</pkg> can download IDs and stats for players and team, as well as MLB logos. 
+      </li>
     </ul>
 
     <p>
@@ -210,6 +213,8 @@
     <pkg>Lahman</pkg>
     <pkg>retrosheet</pkg>
     <pkg>pitchRx</pkg>
+    <pkg>mlbstats</pkg>
+    <pkg>mlbstatsR</pkg>
     <pkg>teamcolors</pkg>
     <pkg>engsoccerdata</pkg>
     <pkg>socceR</pkg>
