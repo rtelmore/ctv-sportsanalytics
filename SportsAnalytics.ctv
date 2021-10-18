@@ -216,14 +216,31 @@
       </li> 
       
       <li>
-        <pkg>aRbs</pkg> This package contains functions 
+        <pkg>aRbs</pkg> This package contains functions for finding arbitrage opportunities in sports betting websites.  Data are collected through <a href = "https://www.oddschecker.com">www.oddschecker.com<\a>
+      </li> 
+      
+      <li>
+        <pkg>mvglmmRank</pkg> This package contains functions for building multivariate generlized mixed models for ranking teams in sports.
+      </li> 
+      
+      <li>
+        <pkg>SportsAnalytics</pkg> The goal of this package is to provide infrastructure to perform general sports analytics.  However, currently it appears to be extremely incomplete and currently only contains a few random data sets and functions. (May just want to exclude this package.)
       </li> 
       
       
-mvglmmRank
-SportsAnalytics
-TouRnament
-piratings
+       <li>
+        <pkg>TouRnament</pkg> This pacakge simply contains two functions: 1) Creating league tables based on results and 2) Creating a match schedule for a league.
+        
+
+      </li> 
+
+
+<li>
+        <pkg>piratings</pkg> This package computed pi ratings as described in <a href = "https://www.degruyter.com/document/doi/10.1515/jqas-2012-0036/html">Constantinou and Fenton (2013) <\a>.  
+      </li> 
+      
+      
+
     </ul>
 
   </info>
