@@ -204,6 +204,26 @@
         themes, <pkg>xaringan</pkg> themes, and logos for professional teams
         across a variety of sports and leagues. 
       </li> 
+      
+      
+      
+      <li>
+        <pkg>colorr</pkg> This package contains color palettes for professional sports teams in the EPL, MLB, NBA, NHL, and NFL.  
+      </li> 
+      
+      <li>
+        <pkg>nbacolorpalettes</pkg> This pacakge create color palettes based on NBA team jerseys.  This was inspired by the Wes Anderson package in R.  
+      </li> 
+      
+      <li>
+        <pkg>aRbs</pkg> This package contains functions 
+      </li> 
+      
+      
+mvglmmRank
+SportsAnalytics
+TouRnament
+piratings
     </ul>
 
   </info>
