@@ -118,7 +118,13 @@
     </p>
     <ul>
       <li>
+      <pkg>hockeyR</pkg> The package contains functions to load raw NHL play-by-play data from <a href = "https://nhl.com">NHL.com<\a>.  Additionally, the package contains functions for scraping <a href = "https://www.hockey-reference.com">www/hockey-reference.com</a> including standings, player stats, and jersey number history.
+          </li> 
+      
+      <li>
+      <pkg>NHLData</pkg>  The package contains scores from NHL games dating back to 1917.  Data are stored one season at a time and contains scores for every game during a particular season.  
       </li> 
+      
     </ul>
 
     <p>
