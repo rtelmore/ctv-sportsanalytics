@@ -240,6 +240,12 @@
       </li> 
       
       
+      <li>
+        <pkg>sportyR</pkg> This package contains functions for creating ggplot represntations of sports playing surfaces pursuant to rule-book specifications.  Particularly useful for plotting player tracking data.
+        
+      </li> 
+      
+      
 
     </ul>
 
