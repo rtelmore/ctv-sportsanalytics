@@ -1,4 +1,5 @@
-## CRAN Task View: Sports Analytics
+CRAN Task View: Sports Analytics
+--------------------------------
 
                                                                                                                          
 **Maintainer:** Ben Baumer                                                                                               
@@ -85,17 +86,34 @@ below) so that pull requests are possible.
 -   [ffsimulator](https://cran.r-project.org/package=ffsimulator) allows users to
     simulate fantasy football seasons using bootstrap simulations.
     Simualtions are based on historical rankings and data from the
-    package [nflfastr](https://cran.r-project.org/package=nflfastr). In addition,
+    package [nflfastR](https://cran.r-project.org/package=nflfastR). In addition,
     functions for computing optimal lineups and aggregating results are
     provided.
 -   [ffscrapr](https://cran.r-project.org/package=ffscrapr) API Client for Fantasy
     Football League Platforms
--   [nfl4th](https://cran.r-project.org/package=nfl4th)
--   [nflseedR](https://cran.r-project.org/package=nflseedR)
+-   [nfl4th](https://cran.r-project.org/package=nfl4th) Functions to Calculate
+    Optimal Fourth Down Decisions in the National Football League. Data
+    on 4th downs is collected from [NFL](https://www.nfl.com/) and
+    [ESPN](https://www.espn.com/) .
+-   [nflseedR](https://cran.r-project.org/package=nflseedR) The package contains
+    functions for ranking NFL teams based on the complex NFL tie
+    breaking rules. Includes division ranking, playoff seeding, and
+    draft order.
+-   [gsisdecoder](https://cran.r-project.org/package=gsisdecoder) High Efficient
+    Functions to Decode NFL Player IDs. For use in nflfastR pacakge.
 
 **Hockey**
 
--   
+-   [hockeyR](https://cran.r-project.org/package=hockeyR) The package contains
+    functions to load raw NHL play-by-play data from
+    [NHL.com](https://nhl.com) . Additionally, the package contains
+    functions for scraping
+    [www/hockey-reference.com](https://www.hockey-reference.com)
+    including standings, player stats, and jersey number history.
+-   [NHLData](https://cran.r-project.org/package=NHLData) The package contains
+    scores from NHL games dating back to 1917. Data are stored one
+    season at a time and contains scores for every game during a
+    particular season.
 
 **Soccer**
 
@@ -199,13 +217,22 @@ below) so that pull requests are possible.
 -   [cricketr](https://cran.r-project.org/package=cricketr)
 -   [engsoccerdata](https://cran.r-project.org/package=engsoccerdata)
 -   [fbRanks](https://cran.r-project.org/package=fbRanks)
+-   [fflr](https://cran.r-project.org/package=fflr)
+-   [ffscrapr](https://cran.r-project.org/package=ffscrapr)
+-   [ffsimulator](https://cran.r-project.org/package=ffsimulator)
 -   [fitzRoy](https://cran.r-project.org/package=fitzRoy)
 -   [footballpenaltiesBL](https://cran.r-project.org/package=footballpenaltiesBL)
 -   [ggsoccer](https://cran.r-project.org/package=ggsoccer)
+-   [gsisdecoder](https://cran.r-project.org/package=gsisdecoder)
+-   [hockeyR](https://cran.r-project.org/package=hockeyR)
 -   [Lahman](https://cran.r-project.org/package=Lahman)
 -   [mlbstats](https://cran.r-project.org/package=mlbstats)
 -   [mlbstatsR](https://cran.r-project.org/package=mlbstatsR)
 -   [NBAloveR](https://cran.r-project.org/package=NBAloveR)
+-   [nfl4th](https://cran.r-project.org/package=nfl4th)
+-   [nflfastR](https://cran.r-project.org/package=nflfastR)
+-   [nflseedR](https://cran.r-project.org/package=nflseedR)
+-   [NHLData](https://cran.r-project.org/package=NHLData)
 -   [pitchRx](https://cran.r-project.org/package=pitchRx)
 -   [qqr](https://cran.r-project.org/package=qqr)
 -   [retrosheet](https://cran.r-project.org/package=retrosheet)

@@ -73,44 +73,25 @@
     <ul>
     <li>
       <pkg>nflfastR</pkg> contains functions to efficiently scrape NFL play-by-play data from 1999 to present.  Similar to <pkg>nflscrapR</pkg>, but much faster.  
-      </li>
-      <li>
+    </li>
+    <li>
       <pkg>fflr</pkg> contains functions for accessing ESPN raw fantasy football data from the ESPN fantasy football API and formatting the raw data.   
-      </li>
-      
-      <li>
-      <pkg>ffsimulator</pkg> allows users to simulate fantasy football seasons using bootstrap simulations.  Simualtions are based on historical rankings and data from the package <pkg>nflfastr</pkg>.  In addition, functions for computing optimal lineups and aggregating results are provided.  
-      </li>
-      
-      
-      <li>
+    </li>
+    <li>
+      <pkg>ffsimulator</pkg> allows users to simulate fantasy football seasons using bootstrap simulations.  Simualtions are based on historical rankings and data from the package <pkg>nflfastR</pkg>.  In addition, functions for computing optimal lineups and aggregating results are provided.  
+    </li>
+    <li>
       <pkg>ffscrapr</pkg> API Client for Fantasy Football League Platforms
-      </li>
-      
-      
-      <li>
-      <pkg>nfl4th</pkg> Functions to Calculate Optimal Fourth Down Decisions in the National Football League.  Data on 4th downs is collected from <a href = "https://www.nfl.com/">NFL</a> and <a href = "https://www.espn.com/">ESPN<\a>.
-      </li>
-      
-      <li>
+    </li>
+    <li>
+      <pkg>nfl4th</pkg> Functions to Calculate Optimal Fourth Down Decisions in the National Football League.  Data on 4th downs is collected from <a href = "https://www.nfl.com/">NFL</a> and <a href = "https://www.espn.com/">ESPN</a>.
+    </li>
+    <li>
        <pkg>nflseedR</pkg> The package contains functions for ranking NFL teams based on the complex NFL tie breaking rules.  Includes division ranking, playoff seeding, and draft order.
-      </li>
-      
-      
-      <li>
+    </li>
+    <li>
        <pkg>gsisdecoder</pkg> High Efficient Functions to Decode NFL Player IDs.  For use in nflfastR pacakge.
-      </li>
-      
-      
-      
-      
-      
-       
-      
-       
-      
-       
-      
+    </li>
     </ul>
 
     <p>
@@ -118,7 +99,7 @@
     </p>
     <ul>
       <li>
-      <pkg>hockeyR</pkg> The package contains functions to load raw NHL play-by-play data from <a href = "https://nhl.com">NHL.com<\a>.  Additionally, the package contains functions for scraping <a href = "https://www.hockey-reference.com">www/hockey-reference.com</a> including standings, player stats, and jersey number history.
+      <pkg>hockeyR</pkg> The package contains functions to load raw NHL play-by-play data from <a href = "https://nhl.com">NHL.com</a>.  Additionally, the package contains functions for scraping <a href = "https://www.hockey-reference.com">www/hockey-reference.com</a> including standings, player stats, and jersey number history.
           </li> 
       
       <li>
@@ -257,6 +238,16 @@
     <pkg>volleystat</pkg>
     <pkg>trackeR</pkg>
     <pkg>trackeRapp</pkg>
+    <pkg>nflfastR</pkg>
+    <pkg>fflr</pkg>
+    <pkg>ffsimulator</pkg>
+    <pkg>ffscrapr</pkg>
+    <pkg>nfl4th</pkg>
+    <pkg>nflseedR</pkg>
+    <pkg>gsisdecoder</pkg>
+    <pkg>hockeyR</pkg>
+    <pkg>NHLData</pkg>
+    
   </packagelist>
 
   <links>
