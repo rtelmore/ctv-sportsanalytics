@@ -89,12 +89,21 @@
       
       
       <li>
-      <pkg>nfl4th</pkg> 
+      <pkg>nfl4th</pkg> Functions to Calculate Optimal Fourth Down Decisions in the National Football League.  Data on 4th downs is collected from <a href = "https://www.nfl.com/">NFL</a> and <a href = "https://www.espn.com/">ESPN<\a>.
       </li>
       
       <li>
-      <pkg>nflseedR</pkg> 
+       <pkg>nflseedR</pkg> The package contains functions for ranking NFL teams based on the complex NFL tie breaking rules.  Includes division ranking, playoff seeding, and draft order.
       </li>
+      
+      
+      <li>
+       <pkg>gsisdecoder</pkg> High Efficient Functions to Decode NFL Player IDs.  For use in nflfastR pacakge.
+      </li>
+      
+      
+      
+      
       
        
       
