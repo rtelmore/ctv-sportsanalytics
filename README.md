@@ -325,5 +325,13 @@ more about a topic and how these R packages support that analysis.
 ### Related links:
 
   - CRAN Task View: [SportsAnalytics](SportsAnalytics.html)
+  - CRAN Task View: [Databases](Databases.html)
+  - CRAN Task View: [Graphics](Graphics.html)
+  - CRAN Task View: [MachineLearning](MachineLearning.html)
+  - CRAN Task View: [Multivariate](Multivariate.html)
+  - CRAN Task View: [ReproducibleResearch](ReproducibleResearch.html)
+  - CRAN Task View: [TeachingStatistics](TeachingStatistics.html)
+  - CRAN Task View: [TrackingData](TrackingData.html)
+  - CRAN Task View: [WebTechnologies](WebTechnologies.html)
   - [GitHub repository for this Task
     View](https://github.com/beanumber/ctv-sportsanalytics)

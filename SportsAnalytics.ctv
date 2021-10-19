@@ -343,6 +343,14 @@
 
   <links>
     <view>SportsAnalytics</view>
+    <view>Databases</view>
+    <view>Graphics</view>
+    <view>MachineLearning</view>
+    <view>Multivariate</view>
+    <view>ReproducibleResearch</view>
+    <view>TeachingStatistics</view>
+    <view>TrackingData</view>
+    <view>WebTechnologies</view>
 
     <a href="https://github.com/beanumber/ctv-sportsanalytics">GitHub repository for this Task View</a>
   </links>
