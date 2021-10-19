@@ -204,48 +204,31 @@
         themes, <pkg>xaringan</pkg> themes, and logos for professional teams
         across a variety of sports and leagues. 
       </li> 
-      
-      
-      
       <li>
-        <pkg>colorr</pkg> This package contains color palettes for professional sports teams in the EPL, MLB, NBA, NHL, and NFL.  
+        <pkg>colorr</pkg> contains color palettes for professional sports teams in the EPL, MLB, NBA, NHL, and NFL.  
       </li> 
-      
       <li>
-        <pkg>nbacolorpalettes</pkg> This pacakge create color palettes based on NBA team jerseys.  This was inspired by the Wes Anderson package in R.  
+        <pkg>nbacolorpalettes</pkg> creates color palettes based on NBA team jerseys.  This was inspired by the Wes Anderson package.  
       </li> 
-      
       <li>
-        <pkg>aRbs</pkg> This package contains functions for finding arbitrage opportunities in sports betting websites.  Data are collected through <a href = "https://www.oddschecker.com">www.oddschecker.com<\a>
+        <pkg>aRbs</pkg> contains functions for finding arbitrage opportunities in sports betting websites.  Data are collected through <a href = "https://www.oddschecker.com">www.oddschecker.com</a>
       </li> 
-      
       <li>
-        <pkg>mvglmmRank</pkg> This package contains functions for building multivariate generlized mixed models for ranking teams in sports.
+        <pkg>mvglmmRank</pkg> contains functions for building multivariate generlized mixed models for ranking teams in sports.
       </li> 
-      
       <li>
-        <pkg>SportsAnalytics</pkg> The goal of this package is to provide infrastructure to perform general sports analytics.  However, currently it appears to be extremely incomplete and currently only contains a few random data sets and functions. (May just want to exclude this package.)
+        The goal of the <pkg>SportsAnalytics</pkg> package is to provide infrastructure to perform general sports analytics.  However, currently it appears to be incomplete and currently only contains a few data sets and functions. 
       </li> 
-      
-      
        <li>
-        <pkg>TouRnament</pkg> This pacakge simply contains two functions: 1) Creating league tables based on results and 2) Creating a match schedule for a league.
-        
-
+        <pkg>TouRnament</pkg> contains two functions: 1) Creating league tables based on results and 2) Creating a match schedule for a league.
       </li> 
 
-
-<li>
-        <pkg>piratings</pkg> This package computed pi ratings as described in <a href = "https://www.degruyter.com/document/doi/10.1515/jqas-2012-0036/html">Constantinou and Fenton (2013) <\a>.  
-      </li> 
-      
-      
       <li>
-        <pkg>sportyR</pkg> This package contains functions for creating ggplot represntations of sports playing surfaces pursuant to rule-book specifications.  Particularly useful for plotting player tracking data.
-        
+        <pkg>piratings</pkg> computes pi ratings as described in <a href = "https://www.degruyter.com/document/doi/10.1515/jqas-2012-0036/html">Constantinou and Fenton (2013) </a>.
       </li> 
-      
-      
+      <li>
+        <pkg>sportyR</pkg> contains functions for creating <pkg>ggplot2</pkg> represntations of sports playing surfaces pursuant to rule-book specifications. This is particularly useful for plotting player tracking data.
+      </li> 
 
     </ul>
 
@@ -290,6 +273,14 @@
     <pkg>gsisdecoder</pkg>
     <pkg>hockeyR</pkg>
     <pkg>NHLData</pkg>
+    <pkg>colorr</pkg>
+    <pkg>nbacolorpalettes</pkg>
+    <pkg>aRbs</pkg>
+    <pkg>mvglmmRank</pkg>
+    <pkg>SportsAnalytics</pkg>
+    <pkg>TouRnament</pkg>
+    <pkg>piratings</pkg>
+    <pkg>sportyR</pkg>
     
   </packagelist>
 
