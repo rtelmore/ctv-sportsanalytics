@@ -89,31 +89,29 @@ below) so that pull requests are possible.
     package [nflfastR](https://cran.r-project.org/package=nflfastR). In addition,
     functions for computing optimal lineups and aggregating results are
     provided.
-  - [ffscrapr](https://cran.r-project.org/package=ffscrapr) API Client for Fantasy
-    Football League Platforms
-  - [nfl4th](https://cran.r-project.org/package=nfl4th) Functions to Calculate
-    Optimal Fourth Down Decisions in the National Football League. Data
-    on 4th downs is collected from [NFL](https://www.nfl.com/) and
-    [ESPN](https://www.espn.com/) .
-  - [nflseedR](https://cran.r-project.org/package=nflseedR) The package contains
-    functions for ranking NFL teams based on the complex NFL tie
-    breaking rules. Includes division ranking, playoff seeding, and
-    draft order.
-  - [gsisdecoder](https://cran.r-project.org/package=gsisdecoder) High Efficient
-    Functions to Decode NFL Player IDs. For use in nflfastR pacakge.
+  - [ffscrapr](https://cran.r-project.org/package=ffscrapr) an API Client for
+    Fantasy Football League Platforms
+  - [nfl4th](https://cran.r-project.org/package=nfl4th) contains functions to
+    calculate optimal Fourth Down decisions in the National Football
+    League. Data on 4th downs is collected from
+    [NFL](https://www.nfl.com/) and [ESPN](https://www.espn.com/) .
+  - [nflseedR](https://cran.r-project.org/package=nflseedR) contains functions for
+    ranking NFL teams based on the complex NFL tie breaking rules. It
+    includes division ranking, playoff seeding, and draft order.
+  - [gsisdecoder](https://cran.r-project.org/package=gsisdecoder) contains functions
+    to Decode NFL Player IDs for use in conjunction with the
+    [nflfastR](https://cran.r-project.org/package=nflfastR) package.
 
 **Hockey**
 
-  - [hockeyR](https://cran.r-project.org/package=hockeyR) The package contains
-    functions to load raw NHL play-by-play data from
-    [NHL.com](https://nhl.com) . Additionally, the package contains
-    functions for scraping
-    [www/hockey-reference.com](https://www.hockey-reference.com)
+  - [hockeyR](https://cran.r-project.org/package=hockeyR) contains functions to load
+    raw NHL play-by-play data from [NHL.com](https://nhl.com) .
+    Additionally, it contains functions for scraping
+    [www.hockey-reference.com](https://www.hockey-reference.com)
     including standings, player stats, and jersey number history.
-  - [NHLData](https://cran.r-project.org/package=NHLData) The package contains
-    scores from NHL games dating back to 1917. Data are stored one
-    season at a time and contains scores for every game during a
-    particular season.
+  - [NHLData](https://cran.r-project.org/package=NHLData) contains scores from NHL
+    games dating back to 1917. Data are stored one season at a time and
+    contains scores for every game during a particular season.
 
 **Soccer**
 
@@ -143,8 +141,8 @@ below) so that pull requests are possible.
     It reads and writes [PGN
     files](https://en.wikipedia.org/wiki/Portable_Game_Notation) and
     SVGs of game boards.
-  - [stockfish](https://cran.r-project.org/package=stockfish) is an R package that
-    implements the UCI open communication protocol and ships with
+  - [stockfish](https://cran.r-project.org/package=stockfish) implements the UCI
+    open communication protocol and ships with
     [Stockfish](https://github.com/official-stockfish/Stockfish) , a
     popular, open source, powerful chess engine written in C++.
   - Like [chess](https://cran.r-project.org/package=chess),

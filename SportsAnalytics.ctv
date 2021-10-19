@@ -81,16 +81,16 @@
       <pkg>ffsimulator</pkg> allows users to simulate fantasy football seasons using bootstrap simulations.  Simualtions are based on historical rankings and data from the package <pkg>nflfastR</pkg>.  In addition, functions for computing optimal lineups and aggregating results are provided.  
     </li>
     <li>
-      <pkg>ffscrapr</pkg> API Client for Fantasy Football League Platforms
+      <pkg>ffscrapr</pkg> an API Client for Fantasy Football League Platforms
     </li>
     <li>
-      <pkg>nfl4th</pkg> Functions to Calculate Optimal Fourth Down Decisions in the National Football League.  Data on 4th downs is collected from <a href = "https://www.nfl.com/">NFL</a> and <a href = "https://www.espn.com/">ESPN</a>.
+      <pkg>nfl4th</pkg> contains functions to calculate optimal Fourth Down decisions in the National Football League.  Data on 4th downs is collected from <a href = "https://www.nfl.com/">NFL</a> and <a href = "https://www.espn.com/">ESPN</a>.
     </li>
     <li>
-       <pkg>nflseedR</pkg> The package contains functions for ranking NFL teams based on the complex NFL tie breaking rules.  Includes division ranking, playoff seeding, and draft order.
+       <pkg>nflseedR</pkg> contains functions for ranking NFL teams based on the complex NFL tie breaking rules. It includes division ranking, playoff seeding, and draft order.
     </li>
     <li>
-       <pkg>gsisdecoder</pkg> High Efficient Functions to Decode NFL Player IDs.  For use in nflfastR pacakge.
+       <pkg>gsisdecoder</pkg> contains functions to Decode NFL Player IDs for use in conjunction with the <pkg>nflfastR</pkg> package.
     </li>
     </ul>
 
@@ -99,11 +99,11 @@
     </p>
     <ul>
       <li>
-      <pkg>hockeyR</pkg> The package contains functions to load raw NHL play-by-play data from <a href = "https://nhl.com">NHL.com</a>.  Additionally, the package contains functions for scraping <a href = "https://www.hockey-reference.com">www/hockey-reference.com</a> including standings, player stats, and jersey number history.
+      <pkg>hockeyR</pkg> contains functions to load raw NHL play-by-play data from <a href="https://nhl.com">NHL.com</a>.  Additionally, it contains functions for scraping <a href="https://www.hockey-reference.com">www.hockey-reference.com</a> including standings, player stats, and jersey number history.
           </li> 
       
       <li>
-      <pkg>NHLData</pkg>  The package contains scores from NHL games dating back to 1917.  Data are stored one season at a time and contains scores for every game during a particular season.  
+      <pkg>NHLData</pkg> contains scores from NHL games dating back to 1917.  Data are stored one season at a time and contains scores for every game during a particular season.  
       </li> 
       
     </ul>
@@ -140,7 +140,7 @@
         <pkg>chess</pkg> is an opinionated wrapper for R around <a href="https://github.com/niklasf/python-chess">python-chess</a>. It reads and writes <a href="https://en.wikipedia.org/wiki/Portable_Game_Notation">PGN files</a> and SVGs of game boards. 
       </li> 
       <li>
-        <pkg>stockfish</pkg> is an R package that implements the UCI open communication protocol and ships with <a href="https://github.com/official-stockfish/Stockfish">Stockfish</a>, a popular, open source, powerful chess engine written in C++.
+        <pkg>stockfish</pkg> implements the UCI open communication protocol and ships with <a href="https://github.com/official-stockfish/Stockfish">Stockfish</a>, a popular, open source, powerful chess engine written in C++.
       </li>
       <li>
         Like <pkg>chess</pkg>, <pkg>bigchess</pkg> reads and writes PGN files. And like <pkg>stockfish</pkg>, <pkg>bigchess</pkg> provides an API to the UCI chess engines. <pkg>bigchess</pkg> is also able to read multiple game files at once without copying to RAM. 
