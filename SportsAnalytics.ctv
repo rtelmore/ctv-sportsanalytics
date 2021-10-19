@@ -81,7 +81,8 @@
       <pkg>nflfastR</pkg> contains functions to efficiently scrape NFL play-by-play data from 1999 to present. It is similar to <a href="https://github.com/maksimhorowitz/nflscrapR">nflscrapR</a>, but much faster.  
     </li>
     <li>
-      <pkg>nflreadr</pkg> efficiently downloads data from 'GitHub' repositories of the 'nflverse' project, including precomputed nflfastR dataframes.
+      <pkg>nflreadr</pkg> efficiently downloads data from <b>GitHub</b> repositories of the <a href="https://github.com/nflverse">nflverse</a> project, including precomputed <pkg>nflfastR</pkg> dataframes.
+    </li>
     <li>
       <pkg>nfl4th</pkg> contains functions to calculate optimal Fourth Down decisions in the National Football League.  Data on 4th downs is collected from <a href = "https://www.nfl.com/">NFL</a> and <a href = "https://www.espn.com/">ESPN</a>.
     </li>
@@ -227,7 +228,6 @@
        <li>
         <pkg>TouRnament</pkg> contains two functions: 1) Creating league tables based on results and 2) Creating a match schedule for a league.
       </li> 
-
       <li>
         <pkg>piratings</pkg> computes pi ratings as described in <a href = "https://www.degruyter.com/document/doi/10.1515/jqas-2012-0036/html">Constantinou and Fenton (2013) </a>.
       </li> 
