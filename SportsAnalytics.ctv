@@ -72,7 +72,7 @@
     </p>
     <ul>
     <li>
-      <pkg>nflfastR</pkg> contains functions to efficiently scrape NFL play-by-play data from 1999 to present.  Similar to <pkg>nflscrapR</pkg>, but much faster.  
+      <pkg>nflfastR</pkg> contains functions to efficiently scrape NFL play-by-play data from 1999 to present. It is similar to <pkg>nflscrapR</pkg>, but much faster.  
     </li>
     <li>
       <pkg>fflr</pkg> contains functions for accessing ESPN raw fantasy football data from the ESPN fantasy football API and formatting the raw data.   

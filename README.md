@@ -77,8 +77,8 @@ below) so that pull requests are possible.
 **Football**
 
   - [nflfastR](https://cran.r-project.org/package=nflfastR) contains functions to
-    efficiently scrape NFL play-by-play data from 1999 to present.
-    Similar to [nflscrapR](https://cran.r-project.org/package=nflscrapR), but much
+    efficiently scrape NFL play-by-play data from 1999 to present. It is
+    similar to [nflscrapR](https://cran.r-project.org/package=nflscrapR), but much
     faster.
   - [fflr](https://cran.r-project.org/package=fflr) contains functions for accessing
     ESPN raw fantasy football data from the ESPN fantasy football API
