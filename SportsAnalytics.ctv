@@ -81,14 +81,7 @@
       <pkg>nflfastR</pkg> contains functions to efficiently scrape NFL play-by-play data from 1999 to present. It is similar to <a href="https://github.com/maksimhorowitz/nflscrapR">nflscrapR</a>, but much faster.  
     </li>
     <li>
-      <pkg>fflr</pkg> contains functions for accessing ESPN raw fantasy football data from the ESPN fantasy football API and formatting the raw data.   
-    </li>
-    <li>
-      <pkg>ffsimulator</pkg> allows users to simulate fantasy football seasons using bootstrap simulations.  Simualtions are based on historical rankings and data from the package <pkg>nflfastR</pkg>.  In addition, functions for computing optimal lineups and aggregating results are provided.  
-    </li>
-    <li>
-      <pkg>ffscrapr</pkg> an API Client for Fantasy Football League Platforms
-    </li>
+      <pkg>nflreadr</pkg> efficiently downloads data from 'GitHub' repositories of the 'nflverse' project, including precomputed nflfastR dataframes.
     <li>
       <pkg>nfl4th</pkg> contains functions to calculate optimal Fourth Down decisions in the National Football League.  Data on 4th downs is collected from <a href = "https://www.nfl.com/">NFL</a> and <a href = "https://www.espn.com/">ESPN</a>.
     </li>
@@ -96,7 +89,16 @@
        <pkg>nflseedR</pkg> contains functions for ranking NFL teams based on the complex NFL tie breaking rules. It includes division ranking, playoff seeding, and draft order.
     </li>
     <li>
-       <pkg>gsisdecoder</pkg> contains functions to Decode NFL Player IDs for use in conjunction with the <pkg>nflfastR</pkg> package.
+      <pkg>fflr</pkg> contains functions for accessing ESPN raw fantasy football data from the ESPN fantasy football API and formatting the raw data.   
+    </li>
+    <li>
+      <pkg>ffscrapr</pkg> helps access various fantasy football APIs including MFL, Sleeper, ESPN, and Fleaflicker with a consistent interface and built-in authentication, rate-limiting, and caching.
+    </li>
+    <li>
+      <pkg>ffsimulator</pkg> allows users to simulate fantasy football seasons using bootstrap resampling.  Simulations are based on historical rankings and data from the package <pkg>nflfastR</pkg>.  In addition, functions for computing optimal lineups and aggregating results are provided.  
+    </li>
+    <li>
+       <pkg>gsisdecoder</pkg> contains functions to decode NFL Player IDs for use in conjunction with the <pkg>nflfastR</pkg> package.
     </li>
     </ul>
 
@@ -323,11 +325,12 @@
     <pkg>trackeR</pkg>
     <pkg>trackeRapp</pkg>
     <pkg>nflfastR</pkg>
-    <pkg>fflr</pkg>
-    <pkg>ffsimulator</pkg>
-    <pkg>ffscrapr</pkg>
+    <pkg>nflreadr</pkg>
     <pkg>nfl4th</pkg>
     <pkg>nflseedR</pkg>
+    <pkg>fflr</pkg>
+    <pkg>ffscrapr</pkg>
+    <pkg>ffsimulator</pkg>
     <pkg>gsisdecoder</pkg>
     <pkg>hockeyR</pkg>
     <pkg>NHLData</pkg>
