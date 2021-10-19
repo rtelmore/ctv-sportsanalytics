@@ -250,21 +250,38 @@
             Marchi, M., Albert, J., and Baumer, B. S. (2018). <a href="https://www.taylorfrancis.com/books/mono/10.1201/9781351107099/analyzing-baseball-data-max-marchi-jim-albert-benjamin-baumer"><i>Analyzing baseball data with R</i></a>. 2nd edition. Chapman and Hall/CRC.
           </li>
         </ul>
+        <p>
         The package itself is detailed in:
+        </p>
         <ul>
           <li>
-            Sievert, C. (2014). Taming PITCHf/x Data with XML2R and pitchRx. R Journal, 6(1).
+            Sievert, C. (2014). Taming PITCHf/x Data with XML2R and pitchRx. <i>R Journal</i>, 6(1).
           </li>
         </ul>
       </li>
       <li>
-        <pkg>BasketballAnalyzeR</pkg> accompanies Zuccolotto, P., and Manisera, M. (2020). <a href="https://www.routledge.com/Basketball-Data-Science-With-Applications-in-R/Zuccolotto-Manisera/p/book/9780429470615"><i>Basketball data science: with applications in R</i></a>. CRC Press.
+        <pkg>BasketballAnalyzeR</pkg> accompanies:
+        <ul>
+          <li>
+            Zuccolotto, P., and Manisera, M. (2020). <a href="https://www.routledge.com/Basketball-Data-Science-With-Applications-in-R/Zuccolotto-Manisera/p/book/9780429470615"><i>Basketball data science: with applications in R</i></a>. CRC Press.
+          </li>
+        </ul>
       </li>
       <li>
-        <pkg>piratings</pkg> supports Constantinou, A. C., Fenton, N. E., and Neil, M. (2013). <a href="https://www.sciencedirect.com/science/article/pii/S095070511300169X">Profiting from an inefficient Association Football gambling market: Prediction, Risk and Uncertainty using Bayesian networks</a>. <i>Knowledge-Based Systems</i>, 50, 60-86.
+        <pkg>piratings</pkg> supports:
+        <ul>
+          <li>
+            Constantinou, A. C., Fenton, N. E., and Neil, M. (2013). <a href="https://www.sciencedirect.com/science/article/pii/S095070511300169X">Profiting from an inefficient Association Football gambling market: Prediction, Risk and Uncertainty using Bayesian networks</a>. <i>Knowledge-Based Systems</i>, 50, 60-86.
+          </li>
+        </ul>
       </li>
       <li>
-        <pkg>teamcolors</pkg> was originally designed to create the data graphics in Lopez, M. J., Matthews, G. J., and Baumer, B. S. (2018). <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-12/issue-4/How-often-does-the-best-team-win-A-unified-approach/10.1214/18-AOAS1165.short">How often does the best team win? A unified approach to understanding randomness in North American sport</a>. <i>The Annals of Applied Statistics</i>, 12(4), 2483-2516.
+        <pkg>teamcolors</pkg> was originally designed to create the data graphics in:
+        <ul>
+          <li>
+            Lopez, M. J., Matthews, G. J., and Baumer, B. S. (2018). <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-12/issue-4/How-often-does-the-best-team-win-A-unified-approach/10.1214/18-AOAS1165.short">How often does the best team win? A unified approach to understanding randomness in North American sport</a>. <i>The Annals of Applied Statistics</i>, 12(4), 2483-2516.
+          </li>
+        </ul>
       </li>
     </ul>
    </p>

@@ -239,30 +239,41 @@ more about a topic and how these R packages support that analysis.
 
   - [pitchRx](https://cran.r-project.org/package=pitchRx), and several other
     baseball-related packages not on CRAN, are used in:
+    
       - Marchi, M., Albert, J., and Baumer, B. S. (2018). [*Analyzing
         baseball data with
         R*](https://www.taylorfrancis.com/books/mono/10.1201/9781351107099/analyzing-baseball-data-max-marchi-jim-albert-benjamin-baumer)
         . 2nd edition. Chapman and Hall/CRC.
+    
     The package itself is detailed in:
+    
       - Sievert, C. (2014). Taming PITCHf/x Data with XML2R and pitchRx.
-        R Journal, 6(1).
+        *R Journal* , 6(1).
+
   - [BasketballAnalyzeR](https://cran.r-project.org/package=BasketballAnalyzeR)
-    accompanies Zuccolotto, P., and Manisera, M. (2020). [*Basketball
-    data science: with applications in
-    R*](https://www.routledge.com/Basketball-Data-Science-With-Applications-in-R/Zuccolotto-Manisera/p/book/9780429470615)
-    . CRC Press.
-  - [piratings](https://cran.r-project.org/package=piratings) supports Constantinou,
-    A. C., Fenton, N. E., and Neil, M. (2013). [Profiting from an
-    inefficient Association Football gambling market: Prediction, Risk
-    and Uncertainty using Bayesian
-    networks](https://www.sciencedirect.com/science/article/pii/S095070511300169X)
-    . *Knowledge-Based Systems* , 50, 60-86.
+    accompanies:
+    
+      - Zuccolotto, P., and Manisera, M. (2020). [*Basketball data
+        science: with applications in
+        R*](https://www.routledge.com/Basketball-Data-Science-With-Applications-in-R/Zuccolotto-Manisera/p/book/9780429470615)
+        . CRC Press.
+
+  - [piratings](https://cran.r-project.org/package=piratings) supports:
+    
+      - Constantinou, A. C., Fenton, N. E., and Neil, M. (2013).
+        [Profiting from an inefficient Association Football gambling
+        market: Prediction, Risk and Uncertainty using Bayesian
+        networks](https://www.sciencedirect.com/science/article/pii/S095070511300169X)
+        . *Knowledge-Based Systems* , 50, 60-86.
+
   - [teamcolors](https://cran.r-project.org/package=teamcolors) was originally
-    designed to create the data graphics in Lopez, M. J., Matthews, G.
-    J., and Baumer, B. S. (2018). [How often does the best team win? A
-    unified approach to understanding randomness in North American
-    sport](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-12/issue-4/How-often-does-the-best-team-win-A-unified-approach/10.1214/18-AOAS1165.short)
-    . *The Annals of Applied Statistics* , 12(4), 2483-2516.
+    designed to create the data graphics in:
+    
+      - Lopez, M. J., Matthews, G. J., and Baumer, B. S. (2018). [How
+        often does the best team win? A unified approach to
+        understanding randomness in North American
+        sport](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-12/issue-4/How-often-does-the-best-team-win-A-unified-approach/10.1214/18-AOAS1165.short)
+        . *The Annals of Applied Statistics* , 12(4), 2483-2516.
 
 </div>
 
