@@ -10,11 +10,16 @@
 <div>
 
 This CRAN Task View contains a list of packages useful for sports
-analytics, grouped by sport.
+analytics, grouped by sport. Following the list of packages, we've
+included a list of selected books and articles that use some of these
+packages in substantive ways. Our goal in compiling this list is to help
+researchers find the tools they need to complete their work in R.
 
-Contributions are always welcome, and encouraged. The source file for
-this particular task view file resides in a GitHub repository (see
-below) so that pull requests are possible.
+The list of packages is aspirationally comprehensive. If there is a
+sports analytics package on CRAN that we have missed, please let us
+know. Contributions are always welcome, and encouraged. The source file
+for this particular task view file resides in a GitHub repository (see
+below). Please open an issue and/or submit a pull request to contribute.
 
 **Baseball**
 
