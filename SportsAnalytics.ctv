@@ -208,9 +208,6 @@
         <pkg>colorr</pkg> contains color palettes for professional sports teams in the EPL, MLB, NBA, NHL, and NFL.  
       </li> 
       <li>
-        <pkg>nbacolorpalettes</pkg> creates color palettes based on NBA team jerseys.  This was inspired by the Wes Anderson package.  
-      </li> 
-      <li>
         <pkg>aRbs</pkg> contains functions for finding arbitrage opportunities in sports betting websites.  Data are collected through <a href = "https://www.oddschecker.com">www.oddschecker.com</a>
       </li> 
       <li>
@@ -329,7 +326,6 @@
     <pkg>hockeyR</pkg>
     <pkg>NHLData</pkg>
     <pkg>colorr</pkg>
-    <pkg>nbacolorpalettes</pkg>
     <pkg>aRbs</pkg>
     <pkg>mvglmmRank</pkg>
     <pkg>SportsAnalytics</pkg>

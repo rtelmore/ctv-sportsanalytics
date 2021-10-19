@@ -203,9 +203,6 @@ below) so that pull requests are possible.
     professional teams across a variety of sports and leagues.
   - [colorr](https://cran.r-project.org/package=colorr) contains color palettes for
     professional sports teams in the EPL, MLB, NBA, NHL, and NFL.
-  - [nbacolorpalettes](https://cran.r-project.org/package=nbacolorpalettes) creates
-    color palettes based on NBA team jerseys. This was inspired by the
-    Wes Anderson package.
   - [aRbs](https://cran.r-project.org/package=aRbs) contains functions for finding
     arbitrage opportunities in sports betting websites. Data are
     collected through [www.oddschecker.com](https://www.oddschecker.com)
@@ -300,7 +297,6 @@ more about a topic and how these R packages support that analysis.
   - [mlbstats](https://cran.r-project.org/package=mlbstats)
   - [mlbstatsR](https://cran.r-project.org/package=mlbstatsR)
   - [mvglmmRank](https://cran.r-project.org/package=mvglmmRank)
-  - [nbacolorpalettes](https://cran.r-project.org/package=nbacolorpalettes)
   - [NBAloveR](https://cran.r-project.org/package=NBAloveR)
   - [nfl4th](https://cran.r-project.org/package=nfl4th)
   - [nflfastR](https://cran.r-project.org/package=nflfastR)
