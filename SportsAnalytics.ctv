@@ -39,7 +39,7 @@
         <pkg>mlbstats</pkg> provides functions for vector-based computation of many baseball statistics, both traditional and sabermetric. This should not be confused with <pkg>mlbstatsR</pkg> which provides an interface to websites such as MLB.com, ESPN.com, and Baseball-Reference.com. <pkg>mlbstatsR</pkg> can download IDs and stats for players and team, as well as MLB logos. 
       </li>
       <li>
-        <pkg>baseballDBR</pkg> leverages the backend database functionality of <pkg>dplyr</pkg> to build local databases that mirror the data contained in <pkg>Lahman</pkg>. Like <pkg>mlbstats</pkg>, it also includes functions to compute baseball statistics, but on data frames rather than vectors. 
+        <pkg>baseballDBR</pkg> leverages the backend database functionality of <b>dplyr</b> to build local databases that mirror the data contained in <pkg>Lahman</pkg>. Like <pkg>mlbstats</pkg>, it also includes functions to compute baseball statistics, but on data frames rather than vectors. 
       </li>
     </ul>
 
@@ -72,7 +72,7 @@
     </p>
     <ul>
     <li>
-      <pkg>nflfastR</pkg> contains functions to efficiently scrape NFL play-by-play data from 1999 to present. It is similar to <pkg>nflscrapR</pkg>, but much faster.  
+      <pkg>nflfastR</pkg> contains functions to efficiently scrape NFL play-by-play data from 1999 to present. It is similar to <a href="https://github.com/maksimhorowitz/nflscrapR">nflscrapR</a>, but much faster.  
     </li>
     <li>
       <pkg>fflr</pkg> contains functions for accessing ESPN raw fantasy football data from the ESPN fantasy football API and formatting the raw data.   
@@ -122,7 +122,7 @@
         <pkg>fbRanks</pkg> helps with estimating team strengths and rankings using time dependent Poisson regression and data on number of goals scored.
       </li>
       <li>
-        <pkg>ggsoccer</pkg> provides functions for visualizing soccer event data in <pkg>ggplot2</pkg>.
+        <pkg>ggsoccer</pkg> provides functions for visualizing soccer event data in <b>ggplot2</b>.
       </li>
       <li>
         <pkg>qqr</pkg> is a collection of Brazilian Soccer Championship data on match statistics since 2014.
@@ -200,8 +200,8 @@
     </p>
     <ul>
       <li>
-        <pkg>teamcolors</pkg> provides color palettes, <pkg>ggplot2</pkg>
-        themes, <pkg>xaringan</pkg> themes, and logos for professional teams
+        <pkg>teamcolors</pkg> provides color palettes, <b>ggplot2</b>
+        themes, <b>xaringan</b> themes, and logos for professional teams
         across a variety of sports and leagues. 
       </li> 
       <li>
@@ -224,7 +224,7 @@
         <pkg>piratings</pkg> computes pi ratings as described in <a href = "https://www.degruyter.com/document/doi/10.1515/jqas-2012-0036/html">Constantinou and Fenton (2013) </a>.
       </li> 
       <li>
-        <pkg>sportyR</pkg> contains functions for creating <pkg>ggplot2</pkg> represntations of sports playing surfaces pursuant to rule-book specifications. This is particularly useful for plotting player tracking data.
+        <pkg>sportyR</pkg> contains functions for creating <b>ggplot2</b> represntations of sports playing surfaces pursuant to rule-book specifications. This is particularly useful for plotting player tracking data.
       </li> 
 
     </ul>

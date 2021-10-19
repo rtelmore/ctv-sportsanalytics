@@ -41,9 +41,8 @@ below) so that pull requests are possible.
     [mlbstatsR](https://cran.r-project.org/package=mlbstatsR) can download IDs and
     stats for players and team, as well as MLB logos.
   - [baseballDBR](https://cran.r-project.org/package=baseballDBR) leverages the
-    backend database functionality of
-    [dplyr](https://cran.r-project.org/package=dplyr) to build local databases that
-    mirror the data contained in
+    backend database functionality of **dplyr** to build local databases
+    that mirror the data contained in
     [Lahman](https://cran.r-project.org/package=Lahman). Like
     [mlbstats](https://cran.r-project.org/package=mlbstats), it also includes
     functions to compute baseball statistics, but on data frames rather
@@ -78,8 +77,8 @@ below) so that pull requests are possible.
 
   - [nflfastR](https://cran.r-project.org/package=nflfastR) contains functions to
     efficiently scrape NFL play-by-play data from 1999 to present. It is
-    similar to [nflscrapR](https://cran.r-project.org/package=nflscrapR), but much
-    faster.
+    similar to [nflscrapR](https://github.com/maksimhorowitz/nflscrapR)
+    , but much faster.
   - [fflr](https://cran.r-project.org/package=fflr) contains functions for accessing
     ESPN raw fantasy football data from the ESPN fantasy football API
     and formatting the raw data.
@@ -126,8 +125,7 @@ below) so that pull requests are possible.
     strengths and rankings using time dependent Poisson regression and
     data on number of goals scored.
   - [ggsoccer](https://cran.r-project.org/package=ggsoccer) provides functions for
-    visualizing soccer event data in
-    [ggplot2](https://cran.r-project.org/package=ggplot2).
+    visualizing soccer event data in **ggplot2** .
   - [qqr](https://cran.r-project.org/package=qqr) is a collection of Brazilian
     Soccer Championship data on match statistics since 2014.
   - [footballpenaltiesBL](https://cran.r-project.org/package=footballpenaltiesBL)
@@ -198,8 +196,7 @@ below) so that pull requests are possible.
 **General**
 
   - [teamcolors](https://cran.r-project.org/package=teamcolors) provides color
-    palettes, [ggplot2](https://cran.r-project.org/package=ggplot2) themes,
-    [xaringan](https://cran.r-project.org/package=xaringan) themes, and logos for
+    palettes, **ggplot2** themes, **xaringan** themes, and logos for
     professional teams across a variety of sports and leagues.
   - [colorr](https://cran.r-project.org/package=colorr) contains color palettes for
     professional sports teams in the EPL, MLB, NBA, NHL, and NFL.
@@ -222,9 +219,9 @@ below) so that pull requests are possible.
     (2013)](https://www.degruyter.com/document/doi/10.1515/jqas-2012-0036/html)
     .
   - [sportyR](https://cran.r-project.org/package=sportyR) contains functions for
-    creating [ggplot2](https://cran.r-project.org/package=ggplot2) represntations of
-    sports playing surfaces pursuant to rule-book specifications. This
-    is particularly useful for plotting player tracking data.
+    creating **ggplot2** represntations of sports playing surfaces
+    pursuant to rule-book specifications. This is particularly useful
+    for plotting player tracking data.
 
 **Packages in action**
 
