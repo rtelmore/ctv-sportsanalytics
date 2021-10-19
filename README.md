@@ -1,6 +1,5 @@
 CRAN Task View: Sports Analytics
 --------------------------------
-
                                                                     
 **Maintainer:** Ben Baumer                                          
 **Contact:**    ben.baumer at gmail.com                             
