@@ -1,7 +1,7 @@
 <!-- Hey Emacs, make this -*- mode: XML -*- -->
 <CRANTaskView>
 
-  <name>Sports Analytics</name>
+  <name>SportsAnalytics</name>
   <topic>Sports Analytics</topic>
   <maintainer email="ben.baumer@gmail.com">Ben Baumer</maintainer>
   <version>2021-10-19</version>

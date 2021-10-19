@@ -1,11 +1,11 @@
 ## CRAN Task View: Sports Analytics
 
-                                                                                                                         
---------------- ------------------------------------------------------------------------------------------------------   
-**Maintainer:** Ben Baumer                                                                                               
-**Contact:**    ben.baumer at gmail.com                                                                                  
-**Version:**    2021-10-19                                                                                               
-**URL:**        [https://CRAN.R-project.org/view=Sports Analytics](https://CRAN.R-project.org/view=Sports%20Analytics)   
+                                                                    
+--------------- -------------------------------------------------   
+**Maintainer:** Ben Baumer                                          
+**Contact:**    ben.baumer at gmail.com                             
+**Version:**    2021-10-19                                          
+**URL:**        <https://CRAN.R-project.org/view=SportsAnalytics>   
 
 <div>
 
