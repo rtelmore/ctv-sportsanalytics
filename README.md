@@ -4,7 +4,7 @@
 --------------- ------------------------------------------------------------------------------------------------------   
 **Maintainer:** Ben Baumer                                                                                               
 **Contact:**    ben.baumer at gmail.com                                                                                  
-**Version:**    2021-09-17                                                                                               
+**Version:**    2021-10-19                                                                                               
 **URL:**        [https://CRAN.R-project.org/view=Sports Analytics](https://CRAN.R-project.org/view=Sports%20Analytics)   
 
 <div>
@@ -230,6 +230,24 @@ below) so that pull requests are possible.
     creating [ggplot2](https://cran.r-project.org/package=ggplot2) represntations of
     sports playing surfaces pursuant to rule-book specifications. This
     is particularly useful for plotting player tracking data.
+
+**Packages in action**
+
+Several of these packages feature prominently in books and articles on
+various subjects. Here, we highlight some examples where you can learn
+more about a topic and how these R packages support that analysis.
+
+  - [pitchRx](https://cran.r-project.org/package=pitchRx), and several other
+    baseball-related packages not on CRAN, are used in Marchi, M.,
+    Albert, J., and Baumer, B. S. (2018). [*Analyzing baseball data with
+    R*](https://www.taylorfrancis.com/books/mono/10.1201/9781351107099/analyzing-baseball-data-max-marchi-jim-albert-benjamin-baumer)
+    . 2nd edition. Chapman and Hall/CRC.
+  - [piratings](https://cran.r-project.org/package=piratings) supports Constantinou,
+    A. C., Fenton, N. E., and Neil, M. (2013). [Profiting from an
+    inefficient Association Football gambling market: Prediction, Risk
+    and Uncertainty using Bayesian
+    networks](https://www.sciencedirect.com/science/article/pii/S095070511300169X)
+    . Knowledge-Based Systems, 50, 60-86.
 
 </div>
 

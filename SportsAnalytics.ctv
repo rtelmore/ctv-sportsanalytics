@@ -4,7 +4,7 @@
   <name>Sports Analytics</name>
   <topic>Sports Analytics</topic>
   <maintainer email="ben.baumer@gmail.com">Ben Baumer</maintainer>
-  <version>2021-09-17</version>
+  <version>2021-10-19</version>
   
   <info>
     <p>
@@ -231,6 +231,27 @@
       </li> 
 
     </ul>
+
+
+    <p>
+    <strong>Packages in action</strong>
+    </p>
+    <p>
+    Several of these packages feature prominently in books and articles on various subjects. 
+    Here, we highlight some examples where you can learn more about a topic and how these
+    R packages support that analysis. 
+    </p>
+    <p>
+    <ul>
+      <li>
+        <pkg>pitchRx</pkg>, and several other baseball-related packages not on CRAN, are used in Marchi, M., Albert, J., and Baumer, B. S. (2018). <a href="https://www.taylorfrancis.com/books/mono/10.1201/9781351107099/analyzing-baseball-data-max-marchi-jim-albert-benjamin-baumer"><i>Analyzing baseball data with R</i></a>. 2nd edition. Chapman and Hall/CRC.
+      </li>
+      <li>
+        <pkg>piratings</pkg> supports Constantinou, A. C., Fenton, N. E., and Neil, M. (2013). <a href="https://www.sciencedirect.com/science/article/pii/S095070511300169X">Profiting from an inefficient Association Football gambling market: Prediction, Risk and Uncertainty using Bayesian networks</a>. Knowledge-Based Systems, 50, 60-86.
+      </li>
+    </ul>
+   </p>
+
 
   </info>
 
