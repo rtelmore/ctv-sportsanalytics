@@ -22,7 +22,7 @@ below). Please open an issue and/or submit a pull request to contribute.
 
 **Baseball**
 
--   Historial baseball data is available through the
+-   Historical baseball data is available through the
     [Lahman](https://cran.r-project.org/package=Lahman) package, which contains
     season-level data for Major League Baseball going back to 1871.
 -   [retrosheet](https://cran.r-project.org/package=retrosheet) facilitates
@@ -69,7 +69,7 @@ below). Please open an issue and/or submit a pull request to contribute.
     . This package includes data and functions to analyze and visualize
     basketball data.
 -   [NBAloveR](https://cran.r-project.org/package=NBAloveR) is an R interface to
-    access basketball data from [Basketbal
+    access basketball data from [Basketball
     Reference](https://www.basketball-reference.com) API. This package
     also contains functions to help users with analyzing basketball
     data.
@@ -165,7 +165,7 @@ below). Please open an issue and/or submit a pull request to contribute.
 
 -   [SwimmeR](https://cran.r-project.org/package=SwimmeR) reads swimming results in
     a variety of formats and returns results in tidy data frame. It also
-    includes functions for coverting times between short-course yards
+    includes functions for converting times between short-course yards
     (SCY), short-course meters (SCM), and long-course meters (LCM).
 
 **Australian Rules Football**
@@ -214,7 +214,7 @@ below). Please open an issue and/or submit a pull request to contribute.
     arbitrage opportunities in sports betting websites. Data are
     collected through [www.oddschecker.com](https://www.oddschecker.com)
 -   [mvglmmRank](https://cran.r-project.org/package=mvglmmRank) contains functions
-    for building multivariate generlized mixed models for ranking teams
+    for building multivariate generalized mixed models for ranking teams
     in sports.
 -   The goal of the
     [SportsAnalytics](https://cran.r-project.org/package=SportsAnalytics) package is
@@ -229,7 +229,7 @@ below). Please open an issue and/or submit a pull request to contribute.
     Fenton (2013)](https://www.degruyter.com/document/doi/10.1515/jqas-2012-0036/html)
     .
 -   [sportyR](https://cran.r-project.org/package=sportyR) contains functions for
-    creating **ggplot2** represntations of sports playing surfaces
+    creating **ggplot2** representations of sports playing surfaces
     pursuant to rule-book specifications. This is particularly useful
     for plotting player tracking data.
 
