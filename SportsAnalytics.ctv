@@ -30,7 +30,7 @@
     </p>
     <ul>
       <li>
-        Historial baseball data is available through the <pkg>Lahman</pkg>
+        Historical baseball data is available through the <pkg>Lahman</pkg>
         package, which contains season-level data for Major League Baseball
         going back to 1871. 
       </li>
@@ -66,7 +66,7 @@
         <pkg>BasketballAnalyzeR</pkg> accompanies the book <a href="https://www.routledge.com/Basketball-Data-Science-With-Applications-in-R/Zuccolotto-Manisera/p/book/9781138600799">Basketball Data Science With Applications in R</a>. This package includes data and functions to analyze and visualize basketball data.
       </li>
       <li>
-        <pkg>NBAloveR</pkg> is an R interface to access basketball data from <a href="https://www.basketball-reference.com">Basketbal Reference</a> API. This package also contains functions to help users with analyzing basketball data. 
+        <pkg>NBAloveR</pkg> is an R interface to access basketball data from <a href="https://www.basketball-reference.com">Basketball Reference</a> API. This package also contains functions to help users with analyzing basketball data. 
       </li>
       <li>
         <pkg>SpatialBall</pkg> helps with spatial analysis of NBA data, in particular, generating offensive and defensive shot charts for teams, players, and seasons.
@@ -161,7 +161,7 @@
     </p>
     <ul>
       <li>
-        <pkg>SwimmeR</pkg> reads swimming results in a variety of formats and returns results in tidy data frame. It also includes functions for coverting times between short-course yards (SCY), short-course meters (SCM), and long-course meters (LCM).
+        <pkg>SwimmeR</pkg> reads swimming results in a variety of formats and returns results in tidy data frame. It also includes functions for converting times between short-course yards (SCY), short-course meters (SCM), and long-course meters (LCM).
       </li> 
     </ul>
     
@@ -220,7 +220,7 @@
         <pkg>aRbs</pkg> contains functions for finding arbitrage opportunities in sports betting websites.  Data are collected through <a href = "https://www.oddschecker.com">www.oddschecker.com</a>
       </li> 
       <li>
-        <pkg>mvglmmRank</pkg> contains functions for building multivariate generlized mixed models for ranking teams in sports.
+        <pkg>mvglmmRank</pkg> contains functions for building multivariate generalized mixed models for ranking teams in sports.
       </li> 
       <li>
         The goal of the <pkg>SportsAnalytics</pkg> package is to provide infrastructure to perform general sports analytics.  However, currently it appears to be incomplete and currently only contains a few data sets and functions. 
@@ -232,7 +232,7 @@
         <pkg>piratings</pkg> computes pi ratings as described in <a href = "https://www.degruyter.com/document/doi/10.1515/jqas-2012-0036/html">Constantinou and Fenton (2013) </a>.
       </li> 
       <li>
-        <pkg>sportyR</pkg> contains functions for creating <b>ggplot2</b> represntations of sports playing surfaces pursuant to rule-book specifications. This is particularly useful for plotting player tracking data.
+        <pkg>sportyR</pkg> contains functions for creating <b>ggplot2</b> representations of sports playing surfaces pursuant to rule-book specifications. This is particularly useful for plotting player tracking data.
       </li> 
 
     </ul>
