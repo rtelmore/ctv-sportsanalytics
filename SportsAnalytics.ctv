@@ -379,7 +379,13 @@
     <pkg>TouRnament</pkg>
     <pkg>piratings</pkg>
     <pkg>sportyR</pkg>
-    
+    <pkg>combinedevents</pkg>
+    <pkg>JumpeR</pkg>
+    <pkg>runexp</pkg>
+    <pkg>odds.converter</pkg>
+    <pkg>implied</pkg>
+    <pkg>pinnacle.data</pkg>
+    <pkg>RKelly</pkg>
   </packagelist>
 
   <links>
