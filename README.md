@@ -4,7 +4,7 @@ CRAN Task View: Sports Analytics
                                                                     
 **Maintainer:** Ben Baumer                                          
 **Contact:**    ben.baumer at gmail.com                             
-**Version:**    2021-10-19                                          
+**Version:**    2021-10-22                                          
 **URL:**        <https://CRAN.R-project.org/view=SportsAnalytics>   
 
 <div>
@@ -162,6 +162,24 @@ below). Please open an issue and/or submit a pull request to contribute.
     also able to read multiple game files at once without copying to
     RAM.
 
+**Track and Field**
+
+-   [combinedevents](https://cran.r-project.org/package=combinedevents) contains
+    functions for calculating scores and marks for combined events
+    competitions in track and field, based on the [International
+    Association of Athletics
+    Federation](https://www.worldathletics.org/) scoring tables.
+-   [JumpeR](https://cran.r-project.org/package=JumpeR) consists of functions for
+    importing (primarily) and analyzing track and field data.
+
+**Softball**
+
+-   [runexp](https://cran.r-project.org/package=runexp) provides methods for
+    estimating runs scored in softball. In particular,
+    [runexp](https://cran.r-project.org/package=runexp) centers around theoretical
+    expectation using discrete Markov chains and empirical distribution
+    using multinomial random simulation.
+
 **Swimming**
 
 -   [SwimmeR](https://cran.r-project.org/package=SwimmeR) reads swimming results in
@@ -204,6 +222,23 @@ below). Please open an issue and/or submit a pull request to contribute.
     tracking devices within R. These two packages allow users to tidy
     and explore data from workouts and competitions.
 
+**Betting**
+
+-   [odds.converter](https://cran.r-project.org/package=odds.converter) contributes
+    functions for converting common sports betting odds types, including
+    US odds, Hong Kong odds, Decimal odds, Indonesian odds, Malaysian
+    odds, and raw probability.
+-   [implied](https://cran.r-project.org/package=implied) is a collection of
+    functions that convert between bookmaker odds and probabilities,
+    based on various algorithms.
+-   [pinnacle.data](https://cran.r-project.org/package=pinnacle.data) contains
+    [Pinnacle](https://www.pinnacle.com/) market odds, highlighted by a
+    dataset of all wagering lines for the 2016 MLB season.
+-   [RKelly](https://cran.r-project.org/package=RKelly) computes the [Kelly
+    criterion](https://doi.org/10.1002/j.1538-7305.1956.tb03809.x) for
+    betting and provides functions to calculate outcome probabilities
+    for multi-leg contests.
+
 **General**
 
 -   [teamcolors](https://cran.r-project.org/package=teamcolors) provides color
@@ -214,7 +249,7 @@ below). Please open an issue and/or submit a pull request to contribute.
 -   [aRbs](https://cran.r-project.org/package=aRbs) contains functions for finding
     arbitrage opportunities in sports betting websites. Data are
     collected through [www.oddschecker.com](https://www.oddschecker.com)
--   [mvglmmRank](https://cran.r-project.org/package=mvglmmRank) contains functions
+-   [mvglmmRank](https://cran.r-project.org/package=mvglmmRank) provides functions
     for building multivariate generalized mixed models for ranking teams
     in sports.
 -   The goal of the
@@ -222,7 +257,7 @@ below). Please open an issue and/or submit a pull request to contribute.
     to provide infrastructure to perform general sports analytics.
     However, currently it appears to be incomplete and currently only
     contains a few data sets and functions.
--   [TouRnament](https://cran.r-project.org/package=TouRnament) contains two
+-   [TouRnament](https://cran.r-project.org/package=TouRnament) consists of two
     functions: 1) Creating league tables based on results and 2)
     Creating a match schedule for a league.
 -   [piratings](https://cran.r-project.org/package=piratings) computes pi ratings as

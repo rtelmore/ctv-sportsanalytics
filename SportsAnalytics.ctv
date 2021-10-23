@@ -4,7 +4,7 @@
   <name>SportsAnalytics</name>
   <topic>Sports Analytics</topic>
   <maintainer email="ben.baumer@gmail.com">Ben Baumer</maintainer>
-  <version>2021-10-19</version>
+  <version>2021-10-22</version>
   
   <info>
     <p>
@@ -155,6 +155,27 @@
         Like <pkg>chess</pkg>, <pkg>bigchess</pkg> reads and writes PGN files. And like <pkg>stockfish</pkg>, <pkg>bigchess</pkg> provides an API to the UCI chess engines. <pkg>bigchess</pkg> is also able to read multiple game files at once without copying to RAM. 
       </li>
     </ul>
+    
+    <p>
+    <strong>Track and Field</strong>
+    </p>
+    <ul>
+      <li>
+        <pkg>combinedevents</pkg> contains functions for calculating scores and marks for combined events competitions in track and field, based on the <a href="https://www.worldathletics.org/">International Association of Athletics Federation</a> scoring tables.  
+      </li> 
+      <li>
+        <pkg>JumpeR</pkg> consists of functions for importing (primarily) and analyzing track and field data.
+      </li> 
+    </ul>
+    
+    <p>
+    <strong>Softball</strong>
+    </p>
+    <ul>
+      <li>
+        <pkg>runexp</pkg> provides methods for estimating runs scored in softball. In particular, <pkg>runexp</pkg> centers around theoretical expectation using discrete Markov chains and empirical distribution using multinomial random simulation.
+      </li> 
+    </ul>
 
     <p>
     <strong>Swimming</strong>
@@ -203,6 +224,24 @@
         <pkg>trackeR</pkg> and <pkg>trackeRapp</pkg> provide tools for analyzing running, cycling and swimming data from GPS-enabled tracking devices within R. These two packages allow users to tidy and explore data from workouts and competitions.
       </li> 
     </ul>
+    
+        <p>
+    <strong>Betting</strong>
+    </p>
+    <ul>
+      <li>
+        <pkg>odds.converter</pkg> contributes functions for converting common sports betting odds types, including US odds, Hong Kong odds, Decimal odds, Indonesian odds, Malaysian odds, and raw probability.
+      </li>
+      <li>
+        <pkg>implied</pkg> is a collection of functions that convert between bookmaker odds and probabilities, based on various algorithms.
+      </li>
+      <li>
+        <pkg>pinnacle.data</pkg> contains <a href="https://www.pinnacle.com/">Pinnacle</a> market odds, highlighted by a dataset of all wagering lines for the 2016 MLB season.
+      </li>
+      <li>
+        <pkg>RKelly</pkg> computes the <a href="https://doi.org/10.1002/j.1538-7305.1956.tb03809.x">Kelly criterion</a> for betting and provides functions to calculate outcome probabilities for multi-leg contests.
+      </li>
+    </ul>
 
     <p>
     <strong>General</strong>
@@ -220,13 +259,13 @@
         <pkg>aRbs</pkg> contains functions for finding arbitrage opportunities in sports betting websites.  Data are collected through <a href = "https://www.oddschecker.com">www.oddschecker.com</a>
       </li> 
       <li>
-        <pkg>mvglmmRank</pkg> contains functions for building multivariate generalized mixed models for ranking teams in sports.
+        <pkg>mvglmmRank</pkg> provides functions for building multivariate generalized mixed models for ranking teams in sports.
       </li> 
       <li>
         The goal of the <pkg>SportsAnalytics</pkg> package is to provide infrastructure to perform general sports analytics.  However, currently it appears to be incomplete and currently only contains a few data sets and functions. 
       </li> 
        <li>
-        <pkg>TouRnament</pkg> contains two functions: 1) Creating league tables based on results and 2) Creating a match schedule for a league.
+        <pkg>TouRnament</pkg> consists of two functions: 1) Creating league tables based on results and 2) Creating a match schedule for a league.
       </li> 
       <li>
         <pkg>piratings</pkg> computes pi ratings as described in <a href = "https://www.degruyter.com/document/doi/10.1515/jqas-2012-0036/html">Constantinou and Fenton (2013) </a>.
