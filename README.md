@@ -137,11 +137,13 @@ below). Please open an issue and/or submit a pull request to contribute.
     data on number of goals scored.
 -   [ggsoccer](https://cran.r-project.org/package=ggsoccer) provides functions for
     visualizing soccer event data in **ggplot2** .
--   [qqr](https://cran.r-project.org/package=qqr) is a collection of Brazilian
-    Soccer Championship data on match statistics since 2014.
+-   [qqr](https://cran.r-project.org/package=qqr) is a collection of [Brazilian
+    Soccer Championship](https://brasileirao.cbf.com.br/) data on match
+    statistics since 2014.
 -   [footballpenaltiesBL](https://cran.r-project.org/package=footballpenaltiesBL)
     contains data and plotting functions for analyzing penalty kicks in
-    the German Men's Bundesliga from 1963-64 to 2016-17.
+    the [German Men's Bundesliga](https://www.bundesliga.com/) from
+    1963-64 to 2016-17.
 
 **Chess**
 
@@ -210,7 +212,8 @@ below). Please open an issue and/or submit a pull request to contribute.
 **Volleyball**
 
 -   [volleystat](https://cran.r-project.org/package=volleystat) contains match
-    statistics from the German Volleyball Bundesliga from 2013-14 to
+    statistics from the [German Volleyball
+    Bundesliga](https://www.volleyball-bundesliga.de/) from 2013-14 to
     2018-19. Data were extracted from the league
     [homepage](www.volleyball-bundesliga.de) .
 
@@ -221,6 +224,9 @@ below). Please open an issue and/or submit a pull request to contribute.
     analyzing running, cycling and swimming data from GPS-enabled
     tracking devices within R. These two packages allow users to tidy
     and explore data from workouts and competitions.
+-   [rStrava](https://cran.r-project.org/package=rStrava) contains functions to
+    access [Strava](https://www.strava.com/) activity data from the
+    [Strava API](https://developers.strava.com/) .
 
 **Betting**
 
@@ -353,6 +359,7 @@ more about a topic and how these R packages support that analysis.
 -   [qqr](https://cran.r-project.org/package=qqr)
 -   [retrosheet](https://cran.r-project.org/package=retrosheet)
 -   [RKelly](https://cran.r-project.org/package=RKelly)
+-   [rStrava](https://cran.r-project.org/package=rStrava)
 -   [runexp](https://cran.r-project.org/package=runexp)
 -   [socceR](https://cran.r-project.org/package=socceR)
 -   [SpatialBall](https://cran.r-project.org/package=SpatialBall)

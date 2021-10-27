@@ -134,10 +134,10 @@
         <pkg>ggsoccer</pkg> provides functions for visualizing soccer event data in <b>ggplot2</b>.
       </li>
       <li>
-        <pkg>qqr</pkg> is a collection of Brazilian Soccer Championship data on match statistics since 2014.
+        <pkg>qqr</pkg> is a collection of <a href="https://brasileirao.cbf.com.br/">Brazilian Soccer Championship</a> data on match statistics since 2014.
       </li>
       <li>
-        <pkg>footballpenaltiesBL</pkg> contains data and plotting functions for analyzing penalty kicks in the German Men's Bundesliga from 1963-64 to 2016-17.
+        <pkg>footballpenaltiesBL</pkg> contains data and plotting functions for analyzing penalty kicks in the <a href="https://www.bundesliga.com/">German Men's Bundesliga</a> from 1963-64 to 2016-17.
       </li>
     </ul>
 
@@ -212,7 +212,7 @@
     </p>
     <ul>
       <li>
-        <pkg>volleystat</pkg> contains match statistics from the German Volleyball Bundesliga from 2013-14 to 2018-19. Data were extracted from the league <a href="www.volleyball-bundesliga.de">homepage</a>.
+        <pkg>volleystat</pkg> contains match statistics from the <a href="https://www.volleyball-bundesliga.de/">German Volleyball Bundesliga</a> from 2013-14 to 2018-19. Data were extracted from the league <a href="www.volleyball-bundesliga.de">homepage</a>.
       </li> 
     </ul>
     
@@ -222,6 +222,9 @@
     <ul>
       <li>
         <pkg>trackeR</pkg> and <pkg>trackeRapp</pkg> provide tools for analyzing running, cycling and swimming data from GPS-enabled tracking devices within R. These two packages allow users to tidy and explore data from workouts and competitions.
+      </li> 
+      <li>
+        <pkg>rStrava</pkg> contains functions to access <a href="https://www.strava.com/">Strava</a> activity data from the <a href="https://developers.strava.com/">Strava API</a>.
       </li> 
     </ul>
     
@@ -386,6 +389,7 @@
     <pkg>implied</pkg>
     <pkg>pinnacle.data</pkg>
     <pkg>RKelly</pkg>
+    <pkg>rStrava</pkg>
   </packagelist>
 
   <links>
