@@ -2,9 +2,9 @@ CRAN Task View: Sports Analytics
 --------------------------------
 
                                                                     
-**Maintainer:** Ben Baumer                                          
+**Maintainer:** Ben Baumer, Quang Nguyen                            
 **Contact:**    ben.baumer at gmail.com                             
-**Version:**    2021-10-22                                          
+**Version:**    2021-11-02                                          
 **URL:**        <https://CRAN.R-project.org/view=SportsAnalytics>   
 
 <div>
@@ -122,6 +122,10 @@ below). Please open an issue and/or submit a pull request to contribute.
 -   [NHLData](https://cran.r-project.org/package=NHLData) contains scores from NHL
     games dating back to 1917. Data are stored one season at a time and
     contains scores for every game during a particular season.
+-   Access to data exposed by the [NHL
+    API](https://gitlab.com/dword4/nhlapi) is provided by the
+    [nhlapi](https://cran.r-project.org/package=nhlapi) and
+    [nhlscrape](https://cran.r-project.org/package=nhlscrape) packages.
 
 **Soccer**
 
@@ -163,6 +167,9 @@ below). Please open an issue and/or submit a pull request to contribute.
     UCI chess engines. [bigchess](https://cran.r-project.org/package=bigchess) is
     also able to read multiple game files at once without copying to
     RAM.
+-   [rchess](https://cran.r-project.org/package=rchess) provides functions for chess
+    validations, pieces movements, check detection, and plotting chess
+    boards.
 
 **Track and Field**
 
@@ -216,6 +223,12 @@ below). Please open an issue and/or submit a pull request to contribute.
     Bundesliga](https://www.volleyball-bundesliga.de/) from 2013-14 to
     2018-19. Data were extracted from the league
     [homepage](www.volleyball-bundesliga.de) .
+
+**Esports**
+
+-   [RDota2](https://cran.r-project.org/package=RDota2) contains functions for
+    retreiving data for the video game [Dota2 from the Steam
+    API](https://store.steampowered.com/app/570/Dota_2) .
 
 **GPS Tracking**
 
@@ -274,6 +287,9 @@ below). Please open an issue and/or submit a pull request to contribute.
     creating **ggplot2** representations of sports playing surfaces
     pursuant to rule-book specifications. This is particularly useful
     for plotting player tracking data.
+-   [SportsTour](https://cran.r-project.org/package=SportsTour) provides functions
+    for displaying tournament fixtures using knock-out and round robin
+    methods.
 
 **Packages in action**
 
@@ -351,12 +367,16 @@ more about a topic and how these R packages support that analysis.
 -   [nflfastR](https://cran.r-project.org/package=nflfastR)
 -   [nflreadr](https://cran.r-project.org/package=nflreadr)
 -   [nflseedR](https://cran.r-project.org/package=nflseedR)
+-   [nhlapi](https://cran.r-project.org/package=nhlapi)
 -   [NHLData](https://cran.r-project.org/package=NHLData)
+-   [nhlscrape](https://cran.r-project.org/package=nhlscrape)
 -   [odds.converter](https://cran.r-project.org/package=odds.converter)
 -   [pinnacle.data](https://cran.r-project.org/package=pinnacle.data)
 -   [piratings](https://cran.r-project.org/package=piratings)
 -   [pitchRx](https://cran.r-project.org/package=pitchRx)
 -   [qqr](https://cran.r-project.org/package=qqr)
+-   [rchess](https://cran.r-project.org/package=rchess)
+-   [RDota2](https://cran.r-project.org/package=RDota2)
 -   [retrosheet](https://cran.r-project.org/package=retrosheet)
 -   [RKelly](https://cran.r-project.org/package=RKelly)
 -   [rStrava](https://cran.r-project.org/package=rStrava)
@@ -364,6 +384,7 @@ more about a topic and how these R packages support that analysis.
 -   [socceR](https://cran.r-project.org/package=socceR)
 -   [SpatialBall](https://cran.r-project.org/package=SpatialBall)
 -   [SportsAnalytics](https://cran.r-project.org/package=SportsAnalytics)
+-   [SportsTour](https://cran.r-project.org/package=SportsTour)
 -   [sportyR](https://cran.r-project.org/package=sportyR)
 -   [stockfish](https://cran.r-project.org/package=stockfish)
 -   [SwimmeR](https://cran.r-project.org/package=SwimmeR)

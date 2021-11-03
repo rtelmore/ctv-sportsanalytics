@@ -3,8 +3,8 @@
 
   <name>SportsAnalytics</name>
   <topic>Sports Analytics</topic>
-  <maintainer email="ben.baumer@gmail.com">Ben Baumer</maintainer>
-  <version>2021-10-22</version>
+  <maintainer email="ben.baumer@gmail.com">Ben Baumer, Quang Nguyen</maintainer>
+  <version>2021-11-02</version>
   
   <info>
     <p>
@@ -109,12 +109,13 @@
     <ul>
       <li>
       <pkg>hockeyR</pkg> contains functions to load raw NHL play-by-play data from <a href="https://nhl.com">NHL.com</a>.  Additionally, it contains functions for scraping <a href="https://www.hockey-reference.com">www.hockey-reference.com</a> including standings, player stats, and jersey number history.
-          </li> 
-      
+      </li> 
       <li>
       <pkg>NHLData</pkg> contains scores from NHL games dating back to 1917.  Data are stored one season at a time and contains scores for every game during a particular season.  
       </li> 
-      
+      <li>
+      Access to data exposed by the <a href="https://gitlab.com/dword4/nhlapi">NHL API</a> is provided by the <pkg>nhlapi</pkg> and <pkg>nhlscrape</pkg> packages. 
+      </li> 
     </ul>
 
     <p>
@@ -153,6 +154,9 @@
       </li>
       <li>
         Like <pkg>chess</pkg>, <pkg>bigchess</pkg> reads and writes PGN files. And like <pkg>stockfish</pkg>, <pkg>bigchess</pkg> provides an API to the UCI chess engines. <pkg>bigchess</pkg> is also able to read multiple game files at once without copying to RAM. 
+      </li>
+      <li>
+        <pkg>rchess</pkg> provides functions for chess validations, pieces movements, check detection, and plotting chess boards.
       </li>
     </ul>
     
@@ -217,6 +221,15 @@
     </ul>
     
     <p>
+    <strong>Esports</strong>
+    </p>
+    <ul>
+      <li>
+        <pkg>RDota2</pkg> contains functions for retreiving data for the video game <a href="https://store.steampowered.com/app/570/Dota_2">Dota2 from the Steam API</a>.
+      </li> 
+    </ul>
+    
+    <p>
     <strong>GPS Tracking</strong>
     </p>
     <ul>
@@ -276,7 +289,9 @@
       <li>
         <pkg>sportyR</pkg> contains functions for creating <b>ggplot2</b> representations of sports playing surfaces pursuant to rule-book specifications. This is particularly useful for plotting player tracking data.
       </li> 
-
+       <li>
+        <pkg>SportsTour</pkg> provides functions for displaying tournament fixtures using knock-out and round robin methods.
+      </li> 
     </ul>
 
 
@@ -390,6 +405,11 @@
     <pkg>pinnacle.data</pkg>
     <pkg>RKelly</pkg>
     <pkg>rStrava</pkg>
+    <pkg>nhlapi</pkg>
+    <pkg>nhlscrape</pkg>
+    <pkg>SportsTour</pkg>
+    <pkg>rchess</pkg>
+    <pkg>RDota2</pkg>
   </packagelist>
 
   <links>
