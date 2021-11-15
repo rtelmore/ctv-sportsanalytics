@@ -71,6 +71,12 @@
       <li>
         <pkg>SpatialBall</pkg> helps with spatial analysis of NBA data, in particular, generating offensive and defensive shot charts for teams, players, and seasons.
       </li>
+      <li>
+        <pkg>wehoop</pkg> provides functions for accessing women's college basketball and WNBA data from the <a href="https://www.espn.com">ESPN</a> API.
+      </li>
+      <li>
+        <pkg>hoopR</pkg> provides functions for accessing men's college basketball and NBA data from various sources, including <a href="https://www.espn.com">ESPN</a>, <a href="https://www.nba.com/stats">NBA Stats API</a>, and <a href="https://www.kenpom.com">Ken Pomeroy's college basketball ratings</a>.
+      </li>  
     </ul>
 
     <p>
@@ -100,6 +106,9 @@
     </li>
     <li>
        <pkg>gsisdecoder</pkg> contains functions to decode NFL Player IDs for use in conjunction with the <pkg>nflfastR</pkg> package.
+    </li>
+    <li>
+       <pkg>cfbfastR</pkg> provides function for accessing college football play-by-play data from <a href="https://collegefootballdata.com/">collegefootballdata.com</a>.
     </li>
     </ul>
 
@@ -410,6 +419,9 @@
     <pkg>SportsTour</pkg>
     <pkg>rchess</pkg>
     <pkg>RDota2</pkg>
+    <pkg>hoopR</pkg>
+    <pkg>wehoop</pkg>
+    <pkg>cfbfastR</pkg>
   </packagelist>
 
   <links>
