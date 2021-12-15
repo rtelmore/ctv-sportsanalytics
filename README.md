@@ -161,6 +161,11 @@ below). Please open an issue and/or submit a pull request to contribute.
     contains data and plotting functions for analyzing penalty kicks in
     the [German Men's Bundesliga](https://www.bundesliga.com/) from
     1963-64 to 2016-17.
+  - [worldfootballR](https://cran.r-project.org/package=worldfootballR) provides
+    clean and tidy soccer game data from a number of popular sites,
+    including [FBref](https://fbref.com/en/) , transfer and valuations
+    data from [Transfermarkt](https://www.transfermarkt.com/) and
+    shooting location data from [Understat](https://understat.com/) .
 
 **Chess**
 
@@ -414,6 +419,7 @@ more about a topic and how these R packages support that analysis.
   - [uncmbb](https://CRAN.R-project.org/package=uncmbb)
   - [volleystat](https://CRAN.R-project.org/package=volleystat)
   - [wehoop](https://CRAN.R-project.org/package=wehoop)
+  - [worldfootballR](https://CRAN.R-project.org/package=worldfootballR)
   - [yorkr](https://CRAN.R-project.org/package=yorkr)
 
 ### Related links:

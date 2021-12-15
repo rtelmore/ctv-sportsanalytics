@@ -152,6 +152,9 @@
       <li>
         <pkg>footballpenaltiesBL</pkg> contains data and plotting functions for analyzing penalty kicks in the <a href="https://www.bundesliga.com/">German Men's Bundesliga</a> from 1963-64 to 2016-17.
       </li>
+      <li>
+        <pkg>worldfootballR</pkg> provides clean and tidy soccer game data from a number of popular sites, including <a href="https://fbref.com/en/">FBref</a>, transfer and valuations data from <a href="https://www.transfermarkt.com/">Transfermarkt</a> and shooting location data from <a href="https://understat.com/">Understat</a>. 
+      </li>
     </ul>
 
     <p>
@@ -426,6 +429,7 @@
     <pkg>wehoop</pkg>
     <pkg>cfbfastR</pkg>
     <pkg>fastRhockey</pkg>
+    <pkg>worldfootballR</pkg>
   </packagelist>
 
   <links>
