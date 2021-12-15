@@ -18,7 +18,8 @@ The list of packages is aspirationally comprehensive. If there is a
 sports analytics package on CRAN that we have missed, please let us
 know. Contributions are always welcome, and encouraged. The source file
 for this particular task view file resides in a GitHub repository (see
-below). Please open an issue and/or submit a pull request to contribute.
+below). Please read the [Guide to Contributing](Contributing.md) , then
+open an issue and/or submit a pull request.
 
 **Baseball**
 
