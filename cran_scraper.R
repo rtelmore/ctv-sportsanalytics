@@ -9,7 +9,7 @@ pkg <- cran_url %>%
   html_table() %>% 
   mutate(low_title = str_to_lower(Title))
 
-dim(pkg) #18319 total pkgs
+dim(pkg) # 18k total pkgs
 
 spt <- c(
   "basketball",
