@@ -3,7 +3,7 @@
 
 ### tl;dr
 
-Please just edit the corresponding `ctv` file in this repo, and file a pull request motivating the
+Please just edit the corresponding `ctv` file in this repo, and file [a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) motivating the
 change.
 
 It might be best to limit each pull request to a single change.  Keep the pull request short and
@@ -25,11 +25,3 @@ processing is best done via the [ctv](http://cran.r-project.org/package=ctv) pac
 
 Task View files can be edited by hand with some care, especially with an editor supporting XML or
 related markup language.
-
-### Outlook
-
-Some discussions have been ongoing about a possible reorganisation of Task Views.  Stay tuned.
-
-### Maintainer for this Task View
-
-Dirk Eddelbuettel
