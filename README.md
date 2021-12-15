@@ -136,6 +136,9 @@ below). Please open an issue and/or submit a pull request to contribute.
     API](https://gitlab.com/dword4/nhlapi) is provided by the
     [nhlapi](https://cran.r-project.org/package=nhlapi) and
     [nhlscrape](https://cran.r-project.org/package=nhlscrape) packages.
+  - [fastRhockey](https://cran.r-project.org/package=fastRhockey) provides API
+    wrappers for the NHL and Premier Hockey Federation (PHF), formerly
+    known as the National Women's Hockey League (NWHL).
 
 **Soccer**
 
@@ -361,6 +364,7 @@ more about a topic and how these R packages support that analysis.
   - [combinedevents](https://CRAN.R-project.org/package=combinedevents)
   - [cricketr](https://CRAN.R-project.org/package=cricketr)
   - [engsoccerdata](https://CRAN.R-project.org/package=engsoccerdata)
+  - [fastRhockey](https://CRAN.R-project.org/package=fastRhockey)
   - [fbRanks](https://CRAN.R-project.org/package=fbRanks)
   - [fflr](https://CRAN.R-project.org/package=fflr)
   - [ffscrapr](https://CRAN.R-project.org/package=ffscrapr)

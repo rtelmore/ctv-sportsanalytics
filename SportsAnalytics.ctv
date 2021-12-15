@@ -124,7 +124,10 @@
       </li> 
       <li>
       Access to data exposed by the <a href="https://gitlab.com/dword4/nhlapi">NHL API</a> is provided by the <pkg>nhlapi</pkg> and <pkg>nhlscrape</pkg> packages. 
-      </li> 
+      </li>
+      <li>
+      <pkg>fastRhockey</pkg> provides API wrappers for the NHL and Premier Hockey Federation (PHF), formerly known as the National Women's Hockey League (NWHL). 
+      </li>
     </ul>
 
     <p>
@@ -422,6 +425,7 @@
     <pkg>hoopR</pkg>
     <pkg>wehoop</pkg>
     <pkg>cfbfastR</pkg>
+    <pkg>fastRhockey</pkg>
   </packagelist>
 
   <links>
