@@ -110,6 +110,9 @@
     <li>
        <pkg>cfbfastR</pkg> provides function for accessing college football play-by-play data from <a href="https://collegefootballdata.com/">collegefootballdata.com</a>.
     </li>
+    <li>
+       <pkg>NFLSimulatoR</pkg> enables the simulation of plays/drives and evaluates game-play strategies in the National Football League (NFL)using nflfastR data.
+    </li>
     </ul>
 
     <p>
